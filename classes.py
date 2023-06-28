@@ -4,6 +4,7 @@ from abc import ABC, abstractmethod
 
 
 class API(ABC):
+    """Абстрактный класс"""
 
     @abstractmethod
     def get_request(self):
@@ -15,6 +16,7 @@ class API(ABC):
 
 
 class HeadHunterAPI(API):
+    """ Класс получения данных через API HeadHunter """
     url = "https://api.hh.ru/vacancies"
     headers = {
         "User-Agent": "MyAppVac/1.01"
@@ -29,12 +31,14 @@ class HeadHunterAPI(API):
         self.vacancies = []
 
     def get_request(self):
+        """ Метод запроса json-данных через API """
         response = requests.get(url=self.url, headers=self.headers, params=self.params)
         if response.status_code != 200:
             raise ParsingError('Ошибка полученя данных')
         return response.json()["items"]
 
     def get_vacancies(self, page_count=1):
+        """ Метод сохранения вакансий в список"""
         self.vacancies = []
         for page in range(page_count):
             page_vacancies = []
@@ -51,6 +55,7 @@ class HeadHunterAPI(API):
                 break
 
     def get_formatted_vacancies(self):
+        """ Метод приводит ключи словарей с вакансиями к единому виду """
         formatted_vacancies = []
         for vacancy in self.vacancies:
             formatted_vacancy = {
@@ -73,6 +78,7 @@ class HeadHunterAPI(API):
 
 
 class SuperJobAPI(API):
+    """ Класс получения данных через API SuperJob """
     url = "https://api.superjob.ru/2.0/vacancies/"
     headers = {
         "X-Api-App-Id": "v3.r.137610095.0dd7bc0929015ddd664d11aa1d40630d05c34006.2aceecd4cdef315cbfe73b148fc53c9cf1dc0147"
@@ -87,12 +93,14 @@ class SuperJobAPI(API):
         self.vacancies = []
 
     def get_request(self):
+        """ Метод запроса json-данных через API """
         response = requests.get(url=self.url, headers=self.headers, params=self.params)
         if response.status_code != 200:
             raise ParsingError('Ошибка полученя данных')
         return response.json()["objects"]
 
     def get_vacancies(self, page_count=1):
+        """ Метод сохранения вакансий в список"""
         self.vacancies = []
         for page in range(page_count):
             page_vacancies = []
@@ -109,6 +117,7 @@ class SuperJobAPI(API):
                 break
 
     def get_formatted_vacancies(self):
+        """ Метод приводит ключи словарей с вакансиями к единому виду """
         formatted_vacancies = []
         for vacancy in self.vacancies:
             formatted_vacancy = {
@@ -126,25 +135,30 @@ class SuperJobAPI(API):
 
 
 class ParsingError(Exception):
+    """ Класс возбуждающий пользовательскую ошибку """
     pass
 
 
 class JsonFile:
+    """ Класс работает с json-файлом"""
     def __init__(self, keyword, vacancies_json):
         self.keyword = keyword
         self.filename = f'{keyword.lower()}.json'
         self.json_write(vacancies_json)
 
     def json_write(self, vacancies_json):
+        """ Метод записи вакансий в файл """
         with open(self.filename, "w", encoding="utf-8") as file:
             json.dump(vacancies_json, file, indent=4)
 
     def json_read(self):
+        """ Метод чтения вакансий из файла """
         with open(self.filename, "r", encoding="utf-8") as file:
             vacancies = json.load(file)
         return [Vacancy(x) for x in vacancies]
 
     def sort_by_salary_from(self):
+        """ Функция сортировки вакансий по минимальной зарплате """
         desc = True if input(
             "> - по убыванию\n"
             "< - по возрастанию\n"
@@ -154,19 +168,16 @@ class JsonFile:
         return sorted(vacancies, key=lambda x: (x.salary_from if x.salary_from else 0, x.salary_to if x.salary_to else 0), reverse=desc)
 
     def filter_by_salary_from(self):
-        filtered_vacancies = []
+        """ Функция фильтрации вакансий по минимальной зарплате """
         minimal_salary = int(input(
             "Введите минимальную зарплату\n"
             ">>> "))
         vacancies = self.json_read()
-        return sorted(vacancies, key=lambda x: (x.salary_from if x.salary_from and int(x.salary_from) >= minimal_salary else 0))
-        # for vacancy in vacancies:
-        #     if vacancy.salary_from:
-        #         if int(vacancy.salary_from) >= minimal_salary:
-        #             filtered_vacancies.extend(vacancy)
+        return sorted(vacancies, key=lambda x: (int(x.salary_from) >= minimal_salary if x.salary_from else 0))
 
 
 class Vacancy:
+    """ Класс вакансии"""
     def __init__(self, vacancy):
         self.employer = vacancy["employer"]
         self.title = vacancy["title"]

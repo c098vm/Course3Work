@@ -4,9 +4,10 @@ import classes
 def main():
     # keyword = input("Введите ключевое слово для поиска вакансий\n"
     #                 ">>> ")
+    keyword = "C++"
     print()
     vacancies_json = []
-    keyword = "C++"
+
     hh = classes.HeadHunterAPI(keyword)
     sj = classes.SuperJobAPI(keyword)
 

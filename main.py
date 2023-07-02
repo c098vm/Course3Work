@@ -1,21 +1,23 @@
-import classes
+import HHParcing
+import SJParcing
+import modules
 
 
 def main():
-    # keyword = input("Введите ключевое слово для поиска вакансий\n"
-    #                 ">>> ")
-    keyword = "C++"
+    keyword = input("Введите ключевое слово для поиска вакансий\n"
+                    ">>> ")
+    # keyword = "C++"
     print()
     vacancies_json = []
 
-    hh = classes.HeadHunterAPI(keyword)
-    sj = classes.SuperJobAPI(keyword)
+    hh = HHParcing.HeadHunterAPI(keyword)
+    sj = SJParcing.SuperJobAPI(keyword)
 
     for api in [hh, sj]:
         api.get_vacancies()
         vacancies_json.extend(api.get_formatted_vacancies())
 
-    jsonfile = classes.JsonFile(keyword, vacancies_json)
+    jsonfile = modules.JsonFile(keyword, vacancies_json)
 
     while True:
         print()

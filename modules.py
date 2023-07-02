@@ -85,3 +85,15 @@ class Vacancy:
 Зарплата: {salary}
 Ссылка: {self.url}
 """
+
+    def __lt__(self, other):
+        return int(self.salary_from) < int(other)
+
+    def __le__(self, other):
+        return int(self.salary_from) <= int(other)
+
+    def __gt__(self, other):
+        return int(self.salary_from) > int(other)
+
+    def __ge__(self, other):
+        return int(self.salary_from) >= int(other)

@@ -1,0 +1,11 @@
+# created by virtualenv automatically
+.idea/
+logs/
+env/
+.venv/
+.cache/
+
+*.log
+*.pyc
+
+

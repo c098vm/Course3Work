@@ -4,7 +4,7 @@ logs/
 env/
 .venv/
 .cache/
-
+venv/
 *.log
 *.pyc
 

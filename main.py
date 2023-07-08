@@ -17,7 +17,7 @@ def main():
         api.get_vacancies()
         vacancies_json.extend(api.get_formatted_vacancies())
 
-    jsonfile = modules.JsonFile(keyword, vacancies_json)
+    jsonfile = modules.modules.JsonFile(keyword, vacancies_json)
 
     while True:
         print()

@@ -72,13 +72,13 @@
         "currency": null
     },
     {
-        "employer": "\u041d\u0415\u041e\u0421\u041e\u0424\u0422",
-        "title": "Backend - \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
-        "url": "https://hh.ru/vacancy/83147041",
+        "employer": "\u041d\u041f\u041a \u0410\u0442\u0440\u043e\u043d\u0438\u043a",
+        "title": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+        "url": "https://hh.ru/vacancy/83080497",
         "api": "HeadHunter",
-        "salary_from": null,
+        "salary_from": 80000,
         "salary_to": null,
-        "currency": null
+        "currency": "RUR"
     },
     {
         "employer": "\u0410\u0442\u043e\u043c\u0438\u043a\u0443\u0441",
@@ -90,13 +90,13 @@
         "currency": null
     },
     {
-        "employer": "\u041d\u041f\u041a \u0410\u0442\u0440\u043e\u043d\u0438\u043a",
-        "title": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
-        "url": "https://hh.ru/vacancy/83080497",
+        "employer": "\u041d\u0415\u041e\u0421\u041e\u0424\u0422",
+        "title": "Backend - \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+        "url": "https://hh.ru/vacancy/83147041",
         "api": "HeadHunter",
-        "salary_from": 80000,
+        "salary_from": null,
         "salary_to": null,
-        "currency": "RUR"
+        "currency": null
     },
     {
         "employer": "Pride Games Studio",
@@ -126,15 +126,6 @@
         "currency": "RUR"
     },
     {
-        "employer": "\u0418\u043d\u0444\u043e\u0422\u0435\u041a\u0421",
-        "title": "QA/\u0422\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0449\u0438\u043a",
-        "url": "https://hh.ru/vacancy/83044586",
-        "api": "HeadHunter",
-        "salary_from": null,
-        "salary_to": null,
-        "currency": null
-    },
-    {
         "employer": "\u041c\u0430\u0440\u043a\u043e\u0432 \u0410. \u0412.",
         "title": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a \u0438\u0433\u0440",
         "url": "https://hh.ru/vacancy/81840516",
@@ -153,6 +144,15 @@
         "currency": "RUR"
     },
     {
+        "employer": "\u0418\u043d\u0444\u043e\u0422\u0435\u041a\u0421",
+        "title": "QA/\u0422\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0449\u0438\u043a",
+        "url": "https://hh.ru/vacancy/83044586",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
         "employer": "\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0426\u0435\u043d\u0442\u0440 (\u041e\u041e\u041e \u0421\u0422\u0426)",
         "title": "\u041d\u0430\u0447\u0438\u043d\u0430\u044e\u0449\u0438\u0439 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
         "url": "https://hh.ru/vacancy/81352642",
@@ -162,15 +162,6 @@
         "currency": "RUR"
     },
     {
-        "employer": "AINAUTS LLC",
-        "title": "C++ developer / C++ \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
-        "url": "https://hh.ru/vacancy/83113937",
-        "api": "HeadHunter",
-        "salary_from": 4000,
-        "salary_to": null,
-        "currency": "USD"
-    },
-    {
         "employer": "\u0412\u0438\u0430\u0440\u0442\u0438",
         "title": "\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a Unreal Engine",
         "url": "https://hh.ru/vacancy/82928805",
@@ -178,6 +169,15 @@
         "salary_from": null,
         "salary_to": null,
         "currency": null
+    },
+    {
+        "employer": "AINAUTS LLC",
+        "title": "C++ developer / C++ \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+        "url": "https://hh.ru/vacancy/83113937",
+        "api": "HeadHunter",
+        "salary_from": 4000,
+        "salary_to": null,
+        "currency": "USD"
     },
     {
         "employer": "\u0411\u0438\u0437\u043d\u0435\u0441 \u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438",
@@ -216,9 +216,9 @@
         "currency": "RUR"
     },
     {
-        "employer": "Querify Labs",
-        "title": "Software Engineer (Java)",
-        "url": "https://hh.ru/vacancy/83168935",
+        "employer": "HRS",
+        "title": "Junior C# Developer for International Company/ Remote",
+        "url": "https://hh.ru/vacancy/82984126",
         "api": "HeadHunter",
         "salary_from": null,
         "salary_to": null,
@@ -234,31 +234,13 @@
         "currency": "RUR"
     },
     {
-        "employer": "HRS",
-        "title": "Junior C# Developer for International Company/ Remote",
-        "url": "https://hh.ru/vacancy/82984126",
+        "employer": "Querify Labs",
+        "title": "Software Engineer (Java)",
+        "url": "https://hh.ru/vacancy/83168935",
         "api": "HeadHunter",
         "salary_from": null,
         "salary_to": null,
         "currency": null
-    },
-    {
-        "employer": "Targem Games",
-        "title": "\u0422\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0449\u0438\u043a \u0438\u0433\u0440",
-        "url": "https://hh.ru/vacancy/81959646",
-        "api": "HeadHunter",
-        "salary_from": null,
-        "salary_to": null,
-        "currency": null
-    },
-    {
-        "employer": "\u0421\u043f\u0435\u043a\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0435 \u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438",
-        "title": "Senior C++ Engineer",
-        "url": "https://hh.ru/vacancy/82573527",
-        "api": "HeadHunter",
-        "salary_from": 400000,
-        "salary_to": 600000,
-        "currency": "RUR"
     },
     {
         "employer": "Querify Labs",
@@ -276,6 +258,24 @@
         "api": "HeadHunter",
         "salary_from": 150000,
         "salary_to": 200000,
+        "currency": "RUR"
+    },
+    {
+        "employer": "Targem Games",
+        "title": "\u0422\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0449\u0438\u043a \u0438\u0433\u0440",
+        "url": "https://hh.ru/vacancy/81959646",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "\u0421\u043f\u0435\u043a\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0435 \u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438",
+        "title": "Senior C++ Engineer",
+        "url": "https://hh.ru/vacancy/82573527",
+        "api": "HeadHunter",
+        "salary_from": 400000,
+        "salary_to": 600000,
         "currency": "RUR"
     },
     {
@@ -297,21 +297,21 @@
         "currency": "RUR"
     },
     {
-        "employer": "\u041e\u041a\u0422\u0411 \u0412\u0435\u043a\u0442\u043e\u0440",
-        "title": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442 Python",
-        "url": "https://hh.ru/vacancy/82565834",
-        "api": "HeadHunter",
-        "salary_from": 70000,
-        "salary_to": 90000,
-        "currency": "RUR"
-    },
-    {
         "employer": "\u041e\u0442\u043a\u0440\u044b\u0442\u044b\u0435 \u0411\u0438\u0437\u043d\u0435\u0441 \u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438",
         "title": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442 Python (Junior)",
         "url": "https://hh.ru/vacancy/79995246",
         "api": "HeadHunter",
         "salary_from": 30000,
         "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "employer": "\u041e\u041a\u0422\u0411 \u0412\u0435\u043a\u0442\u043e\u0440",
+        "title": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442 Python",
+        "url": "https://hh.ru/vacancy/82565834",
+        "api": "HeadHunter",
+        "salary_from": 70000,
+        "salary_to": 90000,
         "currency": "RUR"
     },
     {
@@ -322,15 +322,6 @@
         "salary_from": 35000,
         "salary_to": null,
         "currency": "RUR"
-    },
-    {
-        "employer": "\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u043c\u0438 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u043c\u0438",
-        "title": "\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a C++",
-        "url": "https://hh.ru/vacancy/83137817",
-        "api": "HeadHunter",
-        "salary_from": null,
-        "salary_to": null,
-        "currency": null
     },
     {
         "employer": "Rubetek",
@@ -351,6 +342,15 @@
         "currency": "RUR"
     },
     {
+        "employer": "\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u043c\u0438 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u043c\u0438",
+        "title": "\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a C++",
+        "url": "https://hh.ru/vacancy/83137817",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
         "employer": "\u041d\u041f\u041f \u041a\u0418\u0422",
         "title": "\u0418\u043d\u0436\u0435\u043d\u0435\u0440-\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442 (\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442 \u0421++)",
         "url": "https://hh.ru/vacancy/83012382",
@@ -358,6 +358,15 @@
         "salary_from": 130000,
         "salary_to": 130000,
         "currency": "RUR"
+    },
+    {
+        "employer": "\u0413\u0440\u0443\u043f\u043f\u0430 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439 \u04217",
+        "title": "Java-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+        "url": "https://hh.ru/vacancy/82859484",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
     },
     {
         "employer": "AMICUM",
@@ -378,15 +387,6 @@
         "currency": "RUR"
     },
     {
-        "employer": "\u0413\u0440\u0443\u043f\u043f\u0430 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439 \u04217",
-        "title": "Java-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
-        "url": "https://hh.ru/vacancy/82859484",
-        "api": "HeadHunter",
-        "salary_from": null,
-        "salary_to": null,
-        "currency": null
-    },
-    {
         "employer": "SOFT GAMES",
         "title": "Unreal Engine 5 Developer / \u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
         "url": "https://hh.ru/vacancy/82883578",
@@ -405,21 +405,21 @@
         "currency": "EUR"
     },
     {
-        "employer": "Sigur",
-        "title": "\u0418\u043d\u0436\u0435\u043d\u0435\u0440 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438",
-        "url": "https://hh.ru/vacancy/82926776",
-        "api": "HeadHunter",
-        "salary_from": 50000,
-        "salary_to": null,
-        "currency": "RUR"
-    },
-    {
         "employer": "\u0421\u0435\u043b\u0438\u0432\u0430\u043d\u043e\u0432 \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0421\u0435\u0440\u0433\u0435\u0435\u0432\u0438\u0447",
         "title": "C++ C# \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
         "url": "https://hh.ru/vacancy/82661588",
         "api": "HeadHunter",
         "salary_from": 30000,
         "salary_to": 60000,
+        "currency": "RUR"
+    },
+    {
+        "employer": "Sigur",
+        "title": "\u0418\u043d\u0436\u0435\u043d\u0435\u0440 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438",
+        "url": "https://hh.ru/vacancy/82926776",
+        "api": "HeadHunter",
+        "salary_from": 50000,
+        "salary_to": null,
         "currency": "RUR"
     },
     {
@@ -432,21 +432,21 @@
         "currency": "RUR"
     },
     {
+        "employer": "Querify Labs",
+        "title": "Software Engineer (Java)",
+        "url": "https://hh.ru/vacancy/83168938",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
         "employer": "SDC Software",
         "title": "Embedded \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
         "url": "https://hh.ru/vacancy/82223570",
         "api": "HeadHunter",
         "salary_from": 120000,
         "salary_to": 160000,
-        "currency": "RUR"
-    },
-    {
-        "employer": "\u042d\u043b\u0435\u043c\u0435\u043d\u0442",
-        "title": "Junior \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442",
-        "url": "https://hh.ru/vacancy/80672365",
-        "api": "HeadHunter",
-        "salary_from": 120000,
-        "salary_to": 135000,
         "currency": "RUR"
     },
     {
@@ -459,6 +459,15 @@
         "currency": "RUR"
     },
     {
+        "employer": "\u042d\u043b\u0435\u043c\u0435\u043d\u0442",
+        "title": "Junior \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442",
+        "url": "https://hh.ru/vacancy/80672365",
+        "api": "HeadHunter",
+        "salary_from": 120000,
+        "salary_to": 135000,
+        "currency": "RUR"
+    },
+    {
         "employer": "\u0410\u041b\u041c\u0410",
         "title": "Junior Unity 2D \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
         "url": "https://hh.ru/vacancy/81960012",
@@ -466,6 +475,15 @@
         "salary_from": 40000,
         "salary_to": null,
         "currency": "RUR"
+    },
+    {
+        "employer": "\u0421\u0411\u0415\u0420",
+        "title": "Mechanical Engineer",
+        "url": "https://hh.ru/vacancy/83035369",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
     },
     {
         "employer": "\u041d\u041f\u041f \u0412\u0430\u043a\u042d\u0422\u041e",
@@ -486,15 +504,6 @@
         "currency": "RUR"
     },
     {
-        "employer": "\u0421\u0411\u0415\u0420",
-        "title": "Mechanical Engineer",
-        "url": "https://hh.ru/vacancy/83035369",
-        "api": "HeadHunter",
-        "salary_from": null,
-        "salary_to": null,
-        "currency": null
-    },
-    {
         "employer": "\u0420\u0430\u0434\u0430\u0440 \u041c\u041c\u0421",
         "title": "\u0422\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0449\u0438\u043a \u041f\u041e",
         "url": "https://hh.ru/vacancy/82138251",
@@ -513,15 +522,6 @@
         "currency": "RUR"
     },
     {
-        "employer": "\u041d\u043e\u0440\u0434\u0430\u0432\u0438\u043d\u0434",
-        "title": "Frontend-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
-        "url": "https://hh.ru/vacancy/81910657",
-        "api": "HeadHunter",
-        "salary_from": 70000,
-        "salary_to": null,
-        "currency": "RUR"
-    },
-    {
         "employer": "\u0421\u0443\u0440\u043e\u0432\u044b\u0439 \u0431\u0430\u0439\u0442",
         "title": "Rust Developer",
         "url": "https://hh.ru/vacancy/82100543",
@@ -531,13 +531,22 @@
         "currency": "RUR"
     },
     {
-        "employer": "Querify Labs",
-        "title": "Software Engineer (Java)",
-        "url": "https://hh.ru/vacancy/83168938",
+        "employer": "\u041d\u041f\u041f \u0418\u0422\u042d\u041b\u041c\u0410",
+        "title": "\u0422\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0449\u0438\u043a \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u043d\u043e\u0433\u043e \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0435\u043d\u0438\u044f",
+        "url": "https://hh.ru/vacancy/80505708",
         "api": "HeadHunter",
         "salary_from": null,
         "salary_to": null,
         "currency": null
+    },
+    {
+        "employer": "\u041d\u043e\u0440\u0434\u0430\u0432\u0438\u043d\u0434",
+        "title": "Frontend-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+        "url": "https://hh.ru/vacancy/81910657",
+        "api": "HeadHunter",
+        "salary_from": 70000,
+        "salary_to": null,
+        "currency": "RUR"
     },
     {
         "employer": "Ventra IT Solutions",
@@ -547,6 +556,15 @@
         "salary_from": null,
         "salary_to": 100000,
         "currency": "RUR"
+    },
+    {
+        "employer": "SberAutoTech",
+        "title": "\u0421++ Developer",
+        "url": "https://hh.ru/vacancy/82998291",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
     },
     {
         "employer": "\u0427\u041e\u041f \u0426\u0435\u043d\u0442\u0430\u0432\u0440",
@@ -576,6 +594,15 @@
         "currency": "RUR"
     },
     {
+        "employer": "\u0420\u0438\u0433\u043b\u0430",
+        "title": "\u0422\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0449\u0438\u043a \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u043d\u043e\u0433\u043e \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0435\u043d\u0438\u044f",
+        "url": "https://hh.ru/vacancy/77425477",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
         "employer": "\u0421\u0438\u0442\u0435\u043a",
         "title": "Junior-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a C#",
         "url": "https://hh.ru/vacancy/82324918",
@@ -585,15 +612,6 @@
         "currency": "RUR"
     },
     {
-        "employer": "\u041d\u041f\u041f \u0418\u0422\u042d\u041b\u041c\u0410",
-        "title": "\u0422\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0449\u0438\u043a \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u043d\u043e\u0433\u043e \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0435\u043d\u0438\u044f",
-        "url": "https://hh.ru/vacancy/80505708",
-        "api": "HeadHunter",
-        "salary_from": null,
-        "salary_to": null,
-        "currency": null
-    },
-    {
         "employer": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u044f \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043f\u0440\u0438\u0432\u043e\u0434\u043e\u0432 \u0410\u0434\u0430\u043f\u0442\u0442\u043e",
         "title": "Junior Embedded-\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
         "url": "https://hh.ru/vacancy/83042253",
@@ -601,15 +619,6 @@
         "salary_from": 100000,
         "salary_to": 180000,
         "currency": "RUR"
-    },
-    {
-        "employer": "\u0420\u0438\u0433\u043b\u0430",
-        "title": "\u0422\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0449\u0438\u043a \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u043d\u043e\u0433\u043e \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0435\u043d\u0438\u044f",
-        "url": "https://hh.ru/vacancy/77425477",
-        "api": "HeadHunter",
-        "salary_from": null,
-        "salary_to": null,
-        "currency": null
     },
     {
         "employer": "\u041e\u0422\u0420",
@@ -630,13 +639,22 @@
         "currency": "RUR"
     },
     {
-        "employer": "SberAutoTech",
-        "title": "\u0421++ Developer",
-        "url": "https://hh.ru/vacancy/82998291",
+        "employer": "\u0410\u0422\u041e\u041d",
+        "title": "\u0421\u0442\u0430\u0436\u0435\u0440 \u0411\u0438\u0437\u043d\u0435\u0441-\u0430\u043d\u0430\u043b\u0438\u0442\u0438\u043a",
+        "url": "https://hh.ru/vacancy/82625388",
         "api": "HeadHunter",
         "salary_from": null,
         "salary_to": null,
         "currency": null
+    },
+    {
+        "employer": "Selecty",
+        "title": "Developer C/C++ (\u0443\u0434\u0430\u043b\u0435\u043d\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430)",
+        "url": "https://hh.ru/vacancy/82037396",
+        "api": "HeadHunter",
+        "salary_from": 300000,
+        "salary_to": 600000,
+        "currency": "RUR"
     },
     {
         "employer": "\u0418\u043d\u0444\u043e\u0422\u0435\u041a\u0421",
@@ -655,24 +673,6 @@
         "salary_from": null,
         "salary_to": null,
         "currency": null
-    },
-    {
-        "employer": "\u0410\u0422\u041e\u041d",
-        "title": "\u0421\u0442\u0430\u0436\u0435\u0440 \u0411\u0438\u0437\u043d\u0435\u0441-\u0430\u043d\u0430\u043b\u0438\u0442\u0438\u043a",
-        "url": "https://hh.ru/vacancy/82625388",
-        "api": "HeadHunter",
-        "salary_from": null,
-        "salary_to": null,
-        "currency": null
-    },
-    {
-        "employer": "Selecty",
-        "title": "Developer C/C++ (\u0443\u0434\u0430\u043b\u0435\u043d\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430)",
-        "url": "https://hh.ru/vacancy/82037396",
-        "api": "HeadHunter",
-        "salary_from": 300000,
-        "salary_to": 600000,
-        "currency": "RUR"
     },
     {
         "employer": "TrueConf",
@@ -702,15 +702,6 @@
         "currency": null
     },
     {
-        "employer": "\u041a\u041e\u041d\u0412\u0415\u041b\u0421 \u0410\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u044f",
-        "title": "\u0418\u043d\u0436\u0435\u043d\u0435\u0440-\u0444\u0438\u0437\u0438\u043a (\u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u044c)",
-        "url": "https://hh.ru/vacancy/82988764",
-        "api": "HeadHunter",
-        "salary_from": 100000,
-        "salary_to": null,
-        "currency": "RUR"
-    },
-    {
         "employer": "Ventra IT Solutions",
         "title": "Junior C++ Developer",
         "url": "https://hh.ru/vacancy/82796996",
@@ -720,12 +711,30 @@
         "currency": "RUR"
     },
     {
+        "employer": "\u041a\u041e\u041d\u0412\u0415\u041b\u0421 \u0410\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u044f",
+        "title": "\u0418\u043d\u0436\u0435\u043d\u0435\u0440-\u0444\u0438\u0437\u0438\u043a (\u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u044c)",
+        "url": "https://hh.ru/vacancy/82988764",
+        "api": "HeadHunter",
+        "salary_from": 100000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
         "employer": "\u0412\u043a\u0443\u0441\u0412\u0438\u043b\u043b",
         "title": "\u0422\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0434\u0438\u0440\u0435\u043a\u0442\u043e\u0440",
         "url": "https://hh.ru/vacancy/81738935",
         "api": "HeadHunter",
         "salary_from": 400000,
         "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "employer": "\u041d\u041f\u0424 \u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043f\u0440\u0438\u0432\u043e\u0434",
+        "title": "\u0418\u043d\u0436\u0435\u043d\u0435\u0440-\u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u0449\u0438\u043a",
+        "url": "https://hh.ru/vacancy/83047145",
+        "api": "HeadHunter",
+        "salary_from": 100000,
+        "salary_to": 150000,
         "currency": "RUR"
     },
     {
@@ -756,57 +765,12 @@
         "currency": "USD"
     },
     {
-        "employer": "PVS-Studio",
-        "title": "\u041d\u0430\u0447\u0438\u043d\u0430\u044e\u0449\u0438\u0439 DevOps \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442 \u0441\u043e \u0437\u043d\u0430\u043d\u0438\u0435\u043c \u043b\u044e\u0431\u043e\u0433\u043e \u0438\u0437 \u044f\u0437\u044b\u043a\u043e\u0432 C++, C# \u0438\u043b\u0438 Java",
-        "url": "https://hh.ru/vacancy/81863612",
-        "api": "HeadHunter",
-        "salary_from": 30000,
-        "salary_to": 60000,
-        "currency": "RUR"
-    },
-    {
-        "employer": "\u041f\u0430\u0440\u0430\u0434\u0438\u0433\u043c\u0430",
-        "title": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442 \u043c\u0438\u043a\u0440\u043e\u043a\u043e\u043d\u0442\u0440\u043e\u043b\u043b\u0435\u0440\u043e\u0432",
-        "url": "https://hh.ru/vacancy/76381256",
-        "api": "HeadHunter",
-        "salary_from": 75000,
-        "salary_to": 100000,
-        "currency": "RUR"
-    },
-    {
         "employer": "\u0422\u0435\u043b\u0435\u043a\u043e\u043c-\u0418\u043d\u0436\u0438\u043d\u0438\u0440\u0438\u043d\u0433",
         "title": "Junior \u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442/\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a Python",
         "url": "https://hh.ru/vacancy/82392679",
         "api": "HeadHunter",
         "salary_from": 60000,
         "salary_to": null,
-        "currency": "RUR"
-    },
-    {
-        "employer": "\u0412\u0435\u043a\u0443\u0441, \u0426\u041a\u0422",
-        "title": "\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442 \u043f\u043e \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u043c\u0443 \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0443",
-        "url": "https://hh.ru/vacancy/82026111",
-        "api": "HeadHunter",
-        "salary_from": 300000,
-        "salary_to": null,
-        "currency": "RUR"
-    },
-    {
-        "employer": "\u0421\u041a\u0411 \u0420\u0430\u0434\u0438\u043e\u0442\u0435\u0445\u043f\u0440\u043e\u0435\u043a\u0442",
-        "title": "DevOps/\u0421\u0438\u0441\u0442\u0435\u043c\u043d\u044b\u0439 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u043e\u0440",
-        "url": "https://hh.ru/vacancy/82225237",
-        "api": "HeadHunter",
-        "salary_from": 1000,
-        "salary_to": null,
-        "currency": "USD"
-    },
-    {
-        "employer": "\u041d\u041f\u0424 \u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043f\u0440\u0438\u0432\u043e\u0434",
-        "title": "\u0418\u043d\u0436\u0435\u043d\u0435\u0440-\u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u0449\u0438\u043a",
-        "url": "https://hh.ru/vacancy/83047145",
-        "api": "HeadHunter",
-        "salary_from": 100000,
-        "salary_to": 150000,
         "currency": "RUR"
     },
     {
@@ -819,18 +783,72 @@
         "currency": null
     },
     {
-        "employer": "\u041c\u0424\u0418 \u0421\u043e\u0444\u0442",
-        "title": "\u041c\u0435\u043d\u0435\u0434\u0436\u0435\u0440 \u043f\u043e \u043f\u043e\u0434\u0431\u043e\u0440\u0443 \u0438 \u043e\u0446\u0435\u043d\u043a\u0435 \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u043b\u0430 (IT)",
-        "url": "https://hh.ru/vacancy/83079635",
+        "employer": "\u0412\u0435\u043a\u0443\u0441, \u0426\u041a\u0422",
+        "title": "\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442 \u043f\u043e \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u043c\u0443 \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0443",
+        "url": "https://hh.ru/vacancy/82026111",
+        "api": "HeadHunter",
+        "salary_from": 300000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "employer": "PVS-Studio",
+        "title": "\u041d\u0430\u0447\u0438\u043d\u0430\u044e\u0449\u0438\u0439 DevOps \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442 \u0441\u043e \u0437\u043d\u0430\u043d\u0438\u0435\u043c \u043b\u044e\u0431\u043e\u0433\u043e \u0438\u0437 \u044f\u0437\u044b\u043a\u043e\u0432 C++, C# \u0438\u043b\u0438 Java",
+        "url": "https://hh.ru/vacancy/81863612",
+        "api": "HeadHunter",
+        "salary_from": 30000,
+        "salary_to": 60000,
+        "currency": "RUR"
+    },
+    {
+        "employer": "\u041d\u041f\u041a \u0420\u043e\u0422\u0435\u041a",
+        "title": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442 Python/\u0421++",
+        "url": "https://hh.ru/vacancy/82276519",
         "api": "HeadHunter",
         "salary_from": null,
         "salary_to": null,
         "currency": null
     },
     {
-        "employer": "\u041d\u041f\u041a \u0420\u043e\u0422\u0435\u041a",
-        "title": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442 Python/\u0421++",
-        "url": "https://hh.ru/vacancy/82276519",
+        "employer": "\u041f\u0430\u0440\u0430\u0434\u0438\u0433\u043c\u0430",
+        "title": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442 \u043c\u0438\u043a\u0440\u043e\u043a\u043e\u043d\u0442\u0440\u043e\u043b\u043b\u0435\u0440\u043e\u0432",
+        "url": "https://hh.ru/vacancy/76381256",
+        "api": "HeadHunter",
+        "salary_from": 75000,
+        "salary_to": 100000,
+        "currency": "RUR"
+    },
+    {
+        "employer": "\u0422\u0414 \u0422\u0440\u0438\u0430\u043d\u043e\u043d",
+        "title": "Web-\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442",
+        "url": "https://hh.ru/vacancy/80920745",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "\u0421\u041a\u0411 \u0420\u0430\u0434\u0438\u043e\u0442\u0435\u0445\u043f\u0440\u043e\u0435\u043a\u0442",
+        "title": "DevOps/\u0421\u0438\u0441\u0442\u0435\u043c\u043d\u044b\u0439 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u043e\u0440",
+        "url": "https://hh.ru/vacancy/82225237",
+        "api": "HeadHunter",
+        "salary_from": 1000,
+        "salary_to": null,
+        "currency": "USD"
+    },
+    {
+        "employer": "\u0424\u0413\u0410\u041d\u0423 \u041d\u0418\u0418 \u0421\u043f\u0435\u0446\u0432\u0443\u0437\u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u043a\u0430",
+        "title": "\u0418\u043d\u0436\u0435\u043d\u0435\u0440-\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442",
+        "url": "https://hh.ru/vacancy/81924876",
+        "api": "HeadHunter",
+        "salary_from": 40000,
+        "salary_to": 95000,
+        "currency": "RUR"
+    },
+    {
+        "employer": "it-aces.com",
+        "title": ".NET \u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a (Web, .Net Core)",
+        "url": "https://hh.ru/vacancy/81554746",
         "api": "HeadHunter",
         "salary_from": null,
         "salary_to": null,
@@ -846,24 +864,6 @@
         "currency": "RUR"
     },
     {
-        "employer": "it-aces.com",
-        "title": ".NET \u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a (Web, .Net Core)",
-        "url": "https://hh.ru/vacancy/81554746",
-        "api": "HeadHunter",
-        "salary_from": null,
-        "salary_to": null,
-        "currency": null
-    },
-    {
-        "employer": "\u0422\u0414 \u0422\u0440\u0438\u0430\u043d\u043e\u043d",
-        "title": "Web-\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442",
-        "url": "https://hh.ru/vacancy/80920745",
-        "api": "HeadHunter",
-        "salary_from": null,
-        "salary_to": null,
-        "currency": null
-    },
-    {
         "employer": "\u0413\u0440\u0443\u043f\u043f\u0430 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439 \u0410\u0441\u0442\u0440\u0430",
         "title": "Junior DevOps",
         "url": "https://hh.ru/vacancy/82913173",
@@ -873,22 +873,13 @@
         "currency": null
     },
     {
-        "employer": "\u0413\u0411\u0423\u0417 \u0414\u0413\u041f \u0413. \u041a\u0420\u0410\u0421\u041d\u041e\u0414\u0410\u0420\u0410 \u2116 5 \u041c\u0417 \u041a\u041a",
-        "title": "\u0422\u0435\u0445\u043d\u0438\u043a-\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442",
-        "url": "https://hh.ru/vacancy/83141341",
+        "employer": "\u041c\u0424\u0418 \u0421\u043e\u0444\u0442",
+        "title": "\u041c\u0435\u043d\u0435\u0434\u0436\u0435\u0440 \u043f\u043e \u043f\u043e\u0434\u0431\u043e\u0440\u0443 \u0438 \u043e\u0446\u0435\u043d\u043a\u0435 \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u043b\u0430 (IT)",
+        "url": "https://hh.ru/vacancy/83079635",
         "api": "HeadHunter",
-        "salary_from": 35000,
-        "salary_to": 40000,
-        "currency": "RUR"
-    },
-    {
-        "employer": "\u0424\u0413\u0410\u041d\u0423 \u041d\u0418\u0418 \u0421\u043f\u0435\u0446\u0432\u0443\u0437\u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u043a\u0430",
-        "title": "\u0418\u043d\u0436\u0435\u043d\u0435\u0440-\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442",
-        "url": "https://hh.ru/vacancy/81924876",
-        "api": "HeadHunter",
-        "salary_from": 40000,
-        "salary_to": 95000,
-        "currency": "RUR"
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
     },
     {
         "employer": "Cicada",
@@ -898,6 +889,15 @@
         "salary_from": null,
         "salary_to": 3000,
         "currency": "USD"
+    },
+    {
+        "employer": "\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b",
+        "title": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442 Python",
+        "url": "https://hh.ru/vacancy/82795669",
+        "api": "HeadHunter",
+        "salary_from": 60000,
+        "salary_to": null,
+        "currency": "RUR"
     },
     {
         "employer": "\u042f\u043d\u0434\u0435\u043a\u0441",
@@ -966,15 +966,6 @@
         "employer": "\u042f\u043d\u0434\u0435\u043a\u0441",
         "title": "\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442 \u0441\u043b\u0443\u0436\u0431\u044b \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438 \u0441 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u043c\u0438 \u0437\u043d\u0430\u043d\u0438\u044f\u043c\u0438",
         "url": "https://orehovo-zuevo.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-46109212.html",
-        "api": "SuperJob",
-        "salary_from": 15000,
-        "salary_to": null,
-        "currency": "rub"
-    },
-    {
-        "employer": "\u042f\u043d\u0434\u0435\u043a\u0441",
-        "title": "\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442 \u0441\u043b\u0443\u0436\u0431\u044b \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438 \u0441 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u043c\u0438 \u0437\u043d\u0430\u043d\u0438\u044f\u043c\u0438",
-        "url": "https://orsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-46109213.html",
         "api": "SuperJob",
         "salary_from": 15000,
         "salary_to": null,
@@ -1770,6 +1761,15 @@
         "api": "SuperJob",
         "salary_from": null,
         "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u0424\u0430\u043a\u0442\u043e\u0440-\u0422\u0421",
+        "title": "\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a \u0441\u0435\u0442\u0435\u0432\u044b\u0445 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0439 \u0438 \u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u043e\u0432",
+        "url": "https://www.superjob.ru/vakansii/razrabotchik-setevyh-prilozhenij-i-interfejsov-45695476.html",
+        "api": "SuperJob",
+        "salary_from": 100000,
+        "salary_to": 500000,
         "currency": "rub"
     },
     {

@@ -1,9 +1,10 @@
 from HHParcer import HHParcer
 from SJParcer import SJParcer
-import modules
+from modules import modules
 
 
 def main():
+    vacancies = []
     keyword = input("Введите ключевое слово для поиска вакансий\n"
                     ">>> ")
     # keyword = "C++"
@@ -39,6 +40,7 @@ def main():
 
         for vacancy in vacancies:
             print(vacancy)
+
 
 if __name__ == "__main__":
     main()

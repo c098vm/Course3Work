@@ -1,0 +1,929 @@
+[
+    {
+        "employer": "\u0424\u0438\u043d\u0441\u0442\u0435\u043a \u0411\u0435\u043b",
+        "title": "Junior Data Specialist (Python and SQL)",
+        "url": "https://hh.ru/vacancy/83149686",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "\u041e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u044f \u0410\u0433\u0430\u0442",
+        "title": "\u0410\u043d\u0430\u043b\u0438\u0442\u0438\u043a \u0434\u0430\u043d\u043d\u044b\u0445",
+        "url": "https://hh.ru/vacancy/81915908",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "Apliteni",
+        "title": "Graphic Illustrator",
+        "url": "https://hh.ru/vacancy/83111139",
+        "api": "HeadHunter",
+        "salary_from": 2000,
+        "salary_to": null,
+        "currency": "EUR"
+    },
+    {
+        "employer": "\u0410\u0442\u043e\u043c\u0438\u043a\u0443\u0441",
+        "title": "C# .Net Developer WPF (desktop) (Junior+/Middle)",
+        "url": "https://hh.ru/vacancy/82954227",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "\u041d\u043e\u0440\u0433\u0430\u0443 \u0420\u0443\u0441\u0441\u043b\u0430\u043d\u0434",
+        "title": "\u0412\u0435\u0434\u0443\u0449\u0438\u0439 \u0438\u043d\u0436\u0435\u043d\u0435\u0440-\u043a\u043e\u043d\u0441\u0442\u0440\u0443\u043a\u0442\u043e\u0440",
+        "url": "https://hh.ru/vacancy/83049040",
+        "api": "HeadHunter",
+        "salary_from": 170000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "employer": "Premier Basic Professional",
+        "title": "\u041c\u0435\u043d\u0435\u0434\u0436\u0435\u0440 \u043e\u0442\u0434\u0435\u043b\u0430 \u043f\u0440\u043e\u0434\u0430\u0436, \u0443\u0434\u0430\u043b\u0435\u043d\u043d\u043e (\u043a\u043e\u0441\u043c\u0435\u0442\u043e\u043b\u043e\u0433\u0438\u044f)",
+        "url": "https://hh.ru/vacancy/82033382",
+        "api": "HeadHunter",
+        "salary_from": 150000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "employer": "UZPAYNET",
+        "title": ".Net \u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+        "url": "https://hh.ru/vacancy/83069031",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "CENTRAL ASIAN UNIVERSITY",
+        "title": "Teacher\u2019s Assistant",
+        "url": "https://hh.ru/vacancy/83143185",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "Antal Talent",
+        "title": "Supply Chain Director",
+        "url": "https://hh.ru/vacancy/83050444",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "\u0422\u0432\u0438\u0441\u0442\u0435\u043b\u043b\u0430\u0440",
+        "title": "Junior QA Engineer",
+        "url": "https://hh.ru/vacancy/82134659",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "Procter & Gamble",
+        "title": "Logistics Manager / \u041c\u0435\u043d\u0435\u0434\u0436\u0435\u0440 \u043f\u043e \u043b\u043e\u0433\u0438\u0441\u0442\u0438\u043a\u0435",
+        "url": "https://hh.ru/vacancy/82630612",
+        "api": "HeadHunter",
+        "salary_from": 855000,
+        "salary_to": null,
+        "currency": "KZT"
+    },
+    {
+        "employer": "Wayz Intelligent Manufacturing Technology Co.Ltd",
+        "title": "PLC Engineer",
+        "url": "https://hh.ru/vacancy/83113234",
+        "api": "HeadHunter",
+        "salary_from": 150000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "employer": "Itransition",
+        "title": "Intern Front-end Developer",
+        "url": "https://hh.ru/vacancy/54529036",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "CLS Global",
+        "title": "Sales Manager / Business Development Manager",
+        "url": "https://hh.ru/vacancy/83053953",
+        "api": "HeadHunter",
+        "salary_from": 300000,
+        "salary_to": 400000,
+        "currency": "RUR"
+    },
+    {
+        "employer": "\u0414\u0418\u041a\u0421\u0418, \u0433\u0440\u0443\u043f\u043f\u0430 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439",
+        "title": "\u0410\u043d\u0430\u043b\u0438\u0442\u0438\u043a \u043f\u043e \u043c\u0430\u0440\u043a\u0435\u0442\u0438\u043d\u0433\u0443",
+        "url": "https://hh.ru/vacancy/83149869",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": 140000,
+        "currency": "RUR"
+    },
+    {
+        "employer": "\u0421\u043f\u0435\u0439\u0441 \u0423\u0430\u0439",
+        "title": "Payroll specialist",
+        "url": "https://hh.ru/vacancy/83112915",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": 1200,
+        "currency": "USD"
+    },
+    {
+        "employer": "\u0423\u0440\u0443\u0447\u0441\u043a\u0430\u044f \u042d\u0441\u0442\u0435\u0439\u0442, \u0421\u041e\u041e\u041e",
+        "title": "Personal Assistant",
+        "url": "https://hh.ru/vacancy/82306436",
+        "api": "HeadHunter",
+        "salary_from": 1500,
+        "salary_to": null,
+        "currency": "USD"
+    },
+    {
+        "employer": "G5EN KAZ",
+        "title": "Junior QA Engineer",
+        "url": "https://hh.ru/vacancy/82121189",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "Alvarez and Marsal Central Eurasia",
+        "title": "Finance Assistant (Back-Office)",
+        "url": "https://hh.ru/vacancy/83139255",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "\u0410\u043c\u0414\u0435\u0432 / Amasty",
+        "title": "Support manager",
+        "url": "https://hh.ru/vacancy/82112957",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "\u0427\u0435\u043b\u044f\u0431\u0438\u043d\u0441\u043a\u0438\u0439 \u043a\u0443\u0437\u043d\u0435\u0447\u043d\u043e-\u043f\u0440\u0435\u0441\u0441\u043e\u0432\u044b\u0439 \u0437\u0430\u0432\u043e\u0434 (\u0427\u041a\u041f\u0417)",
+        "title": "\u0423\u043a\u043b\u0430\u0434\u0447\u0438\u043a-\u0443\u043f\u0430\u043a\u043e\u0432\u0449\u0438\u043a",
+        "url": "https://hh.ru/vacancy/82380332",
+        "api": "HeadHunter",
+        "salary_from": 45000,
+        "salary_to": 140000,
+        "currency": "RUR"
+    },
+    {
+        "employer": "\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442 \u043c\u0430\u0433\u0430\u0437\u0438\u043d",
+        "title": "Editor (American English)",
+        "url": "https://hh.ru/vacancy/83074302",
+        "api": "HeadHunter",
+        "salary_from": 65000,
+        "salary_to": 85000,
+        "currency": "RUR"
+    },
+    {
+        "employer": "Tefal",
+        "title": "Finance Control Trainee",
+        "url": "https://hh.ru/vacancy/82761089",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "Takeprofit Technology",
+        "title": "Project manager",
+        "url": "https://hh.ru/vacancy/82311807",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "Andersen",
+        "title": "Sourcing Specialist",
+        "url": "https://hh.ru/vacancy/83140193",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "\u0417\u0435\u0442-\u0421\u043e\u0444\u0442\u0432\u0435\u0440 \u0420\u0443\u0441",
+        "title": "\u0425\u0443\u0434\u043e\u0436\u043d\u0438\u043a 3D (Props)",
+        "url": "https://hh.ru/vacancy/82304354",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "Premier Basic Professional",
+        "title": "\u041e\u0444\u0438\u0441-\u043c\u0435\u043d\u0435\u0434\u0436\u0435\u0440 (\u043a\u043e\u0441\u043c\u0435\u0442\u043e\u043b\u043e\u0433\u0438\u044f)",
+        "url": "https://hh.ru/vacancy/83002373",
+        "api": "HeadHunter",
+        "salary_from": 55000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "employer": "\u0413\u0443\u0431\u0430\u0439\u0434\u0443\u043b\u043b\u0438\u043d\u0430 \u0420\u0438\u043c\u0430 \u0420\u0430\u0448\u0438\u0442\u043e\u0432\u043d\u0430",
+        "title": "\u041c\u0430\u0441\u0442\u0435\u0440 \u043c\u0430\u043d\u0438\u043a\u044e\u0440\u0430 \u0438 \u043f\u0435\u0434\u0438\u043a\u044e\u0440\u0430",
+        "url": "https://hh.ru/vacancy/82750648",
+        "api": "HeadHunter",
+        "salary_from": 40000,
+        "salary_to": 100000,
+        "currency": "RUR"
+    },
+    {
+        "employer": "PricewaterhouseCoopers",
+        "title": "Associate to Audit (Competency Center) Almaty",
+        "url": "https://hh.ru/vacancy/80472608",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "Prime Aviation",
+        "title": "Cabin Crew/\u0411\u043e\u0440\u0442\u043f\u0440\u043e\u0432\u043e\u0434\u043d\u0438\u043a",
+        "url": "https://hh.ru/vacancy/80789501",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "Andersen",
+        "title": "Project Manager Trainee",
+        "url": "https://hh.ru/vacancy/82095820",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "Engoo",
+        "title": "Online English Tutor",
+        "url": "https://hh.ru/vacancy/82437805",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "Ecom Market",
+        "title": "Junior Researcher",
+        "url": "https://hh.ru/vacancy/82816854",
+        "api": "HeadHunter",
+        "salary_from": 500,
+        "salary_to": 500,
+        "currency": "USD"
+    },
+    {
+        "employer": "MY.GAMES",
+        "title": "Frontend Developer",
+        "url": "https://hh.ru/vacancy/82939062",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "\u0410\u0439\u0422\u0435\u043a",
+        "title": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442 1\u0421",
+        "url": "https://hh.ru/vacancy/82204224",
+        "api": "HeadHunter",
+        "salary_from": 90000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "employer": "\u042d\u0420\u041a\u041e\u041d\u041f\u0420\u041e\u0414\u0423\u041a\u0422",
+        "title": "\u0417\u0430\u043c\u0435\u0441\u0442\u0438\u0442\u0435\u043b\u044c \u0433\u043b\u0430\u0432\u043d\u043e\u0433\u043e \u0438\u043d\u0436\u0435\u043d\u0435\u0440\u0430",
+        "url": "https://hh.ru/vacancy/83045775",
+        "api": "HeadHunter",
+        "salary_from": 60000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "employer": "Gamedev Punks",
+        "title": "\u041c\u043e\u043d\u0442\u0430\u0436\u0451\u0440 Reels/TikTok/Youtube",
+        "url": "https://hh.ru/vacancy/81820650",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "\u0413\u0443\u043a \u0421.\u0412.",
+        "title": "\u041f\u0435\u0440\u0441\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0430\u0441\u0441\u0438\u0441\u0442\u0435\u043d\u0442 PA / Project Manager",
+        "url": "https://hh.ru/vacancy/81726828",
+        "api": "HeadHunter",
+        "salary_from": 500,
+        "salary_to": 800,
+        "currency": "USD"
+    },
+    {
+        "employer": "SMEC TASHKENT",
+        "title": "Projects Coordinator - Uzbekistan",
+        "url": "https://hh.ru/vacancy/82889039",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "GT Capital",
+        "title": "\u0422\u0440\u0435\u0439\u0434\u0435\u0440",
+        "url": "https://hh.ru/vacancy/81878349",
+        "api": "HeadHunter",
+        "salary_from": 10000,
+        "salary_to": 150000,
+        "currency": "RUR"
+    },
+    {
+        "employer": "\u0421\u0422\u0410\u0420 \u041a\u041e\u041b\u041b",
+        "title": "Business Office Manager",
+        "url": "https://hh.ru/vacancy/83116404",
+        "api": "HeadHunter",
+        "salary_from": 1600,
+        "salary_to": null,
+        "currency": "BYR"
+    },
+    {
+        "employer": "Grintern",
+        "title": "Junior Content Writer",
+        "url": "https://hh.ru/vacancy/82977878",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "MY.GAMES",
+        "title": "HTML5 Developer (Playable)",
+        "url": "https://hh.ru/vacancy/83113902",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "Gismart",
+        "title": "Front-end Engineer (Junior+)",
+        "url": "https://hh.ru/vacancy/81706394",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "Stay Today Inc",
+        "title": "Office administrator (Remote)",
+        "url": "https://hh.ru/vacancy/82143095",
+        "api": "HeadHunter",
+        "salary_from": 1100,
+        "salary_to": 1400,
+        "currency": "USD"
+    },
+    {
+        "employer": "Yellow",
+        "title": "Business Analyst",
+        "url": "https://hh.ru/vacancy/82773674",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "\u0420\u043e\u0441\u0442\u0435\u043b\u0435\u043a\u043e\u043c",
+        "title": "\u0410\u043d\u0430\u043b\u0438\u0442\u0438\u043a \u0434\u0430\u043d\u043d\u044b\u0445",
+        "url": "https://hh.ru/vacancy/83109378",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "inDrive",
+        "title": "Marketing/PR manager (freelance)",
+        "url": "https://hh.ru/vacancy/83105478",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "\u0410\u0439-\u0442\u0438 \u043f\u0440\u043e\u0435\u043a\u0442",
+        "title": "\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442 \u043f\u043e \u043c\u043e\u0431\u0438\u043b\u044c\u043d\u043e\u0439 \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u0438",
+        "url": "https://hh.ru/vacancy/82019232",
+        "api": "HeadHunter",
+        "salary_from": 25000,
+        "salary_to": 90000,
+        "currency": "RUR"
+    },
+    {
+        "employer": "Premier Basic Professional",
+        "title": "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u0439\u043d\u044b\u0439 \u043c\u0435\u043d\u0435\u0434\u0436\u0435\u0440",
+        "url": "https://hh.ru/vacancy/82086470",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "Gismart",
+        "title": "Motion Designer",
+        "url": "https://hh.ru/vacancy/82837282",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "Servers.com",
+        "title": "Technical Support Engineer",
+        "url": "https://hh.ru/vacancy/82717584",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "Procter&Gamble - \u041d\u043e\u0432\u043e\u043c\u043e\u0441\u043a\u043e\u0432\u0441\u043a",
+        "title": "\u0421\u0442\u0430\u0436\u0435\u0440 \u0432 \u043e\u0442\u0434\u0435\u043b \u0431\u0443\u0445\u0433\u0430\u043b\u0442\u0435\u0440\u0441\u043a\u043e\u0439 \u0438 \u043d\u0430\u043b\u043e\u0433\u043e\u0432\u043e\u0439 \u043e\u0442\u0447\u0435\u0442\u043d\u043e\u0441\u0442\u0438 (Finance & Accounting) - P&G",
+        "url": "https://hh.ru/vacancy/73350003",
+        "api": "HeadHunter",
+        "salary_from": 45000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "employer": "Bolashak Atyrau",
+        "title": "Commissioning Supervisor (Instrument)",
+        "url": "https://hh.ru/vacancy/82888676",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "Procter&Gamble - \u041d\u043e\u0432\u043e\u043c\u043e\u0441\u043a\u043e\u0432\u0441\u043a",
+        "title": "IT Analyst Intern for Logistics department / \u041c\u0435\u043d\u0435\u0434\u0436\u0435\u0440 \u043f\u043e \u0432\u043d\u0435\u0434\u0440\u0435\u043d\u0438\u044e IT \u043f\u0440\u043e\u0435\u043a\u0442\u043e\u0432",
+        "url": "https://hh.ru/vacancy/82011757",
+        "api": "HeadHunter",
+        "salary_from": 90000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "employer": "Engoo",
+        "title": "Online English Tutor",
+        "url": "https://hh.ru/vacancy/82437667",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "\u0421\u0442\u044d\u043b",
+        "title": "Data Engineer (SQL ORACLE DATA BASE, remote)",
+        "url": "https://hh.ru/vacancy/82924172",
+        "api": "HeadHunter",
+        "salary_from": 3000,
+        "salary_to": 5000,
+        "currency": "USD"
+    },
+    {
+        "employer": "MY.GAMES",
+        "title": "BI Analyst",
+        "url": "https://hh.ru/vacancy/83054500",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "SOL NETWORKS LIMITED",
+        "title": "Online operator (with English language)",
+        "url": "https://hh.ru/vacancy/78536955",
+        "api": "HeadHunter",
+        "salary_from": 500,
+        "salary_to": 1500,
+        "currency": "EUR"
+    },
+    {
+        "employer": "\u0418\u043d\u0436\u0435\u043d\u0435\u0440\u043d\u043e-\u0422\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0426\u0435\u043d\u0442\u0440, \u0444\u0438\u043b\u0438\u0430\u043b \u041e\u041e\u041e \u0413\u0430\u0437\u043f\u0440\u043e\u043c \u0442\u0440\u0430\u043d\u0441\u0433\u0430\u0437 \u0421\u0443\u0440\u0433\u0443\u0442",
+        "title": "\u0418\u043d\u0436\u0435\u043d\u0435\u0440-\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442 \u0410\u0421\u0423 \u0422\u041f",
+        "url": "https://hh.ru/vacancy/81957429",
+        "api": "HeadHunter",
+        "salary_from": 100000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "employer": "Expert Soft",
+        "title": "Junior Java Developer - \u0441\u0442\u0430\u0436\u0435\u0440 Java/Spring",
+        "url": "https://hh.ru/vacancy/76213523",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "Mayflower",
+        "title": "Business Analyst",
+        "url": "https://hh.ru/vacancy/82940337",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "Air Liquide",
+        "title": "Project Engineer",
+        "url": "https://hh.ru/vacancy/83044653",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "Udalenno",
+        "title": "Senior Graphic Design Manager",
+        "url": "https://hh.ru/vacancy/82927869",
+        "api": "HeadHunter",
+        "salary_from": 2000,
+        "salary_to": 2500,
+        "currency": "EUR"
+    },
+    {
+        "employer": "M&A Science",
+        "title": "Senior Quality Assurance Specialist",
+        "url": "https://hh.ru/vacancy/82961264",
+        "api": "HeadHunter",
+        "salary_from": 2500,
+        "salary_to": 3500,
+        "currency": "USD"
+    },
+    {
+        "employer": "\u0420\u0422\u041a \u0410\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u043a\u0430",
+        "title": "\u0421\u0438\u0441\u0442\u0435\u043c\u043d\u044b\u0439 \u0430\u043d\u0430\u043b\u0438\u0442\u0438\u043a (\u0410\u0421\u0423 \u0422\u041f, \u041f\u041b\u041a)",
+        "url": "https://hh.ru/vacancy/81285907",
+        "api": "HeadHunter",
+        "salary_from": 140000,
+        "salary_to": 230000,
+        "currency": "RUR"
+    },
+    {
+        "employer": "\u041d\u0430\u0443\u0447\u0441\u043e\u0444\u0442",
+        "title": "L1/L2 Support Engineer",
+        "url": "https://hh.ru/vacancy/83010810",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "\u0421\u0417 \u0417\u0430\u0432\u043e\u0434 \u0416\u0411\u0418-3",
+        "title": "\u0418\u043d\u0436\u0435\u043d\u0435\u0440-\u043f\u0440\u043e\u0435\u043a\u0442\u0438\u0440\u043e\u0432\u0449\u0438\u043a",
+        "url": "https://hh.ru/vacancy/82210540",
+        "api": "HeadHunter",
+        "salary_from": 40000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "employer": "MIRA TECH L.L.C",
+        "title": "Junior / Middle Project Manager",
+        "url": "https://hh.ru/vacancy/81800872",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "\u041f\u0440\u0435\u0434\u043f\u0440\u0438\u044f\u0442\u0438\u0435 \u0420\u0435\u043f\u0435\u0440-\u041d\u041d",
+        "title": "\u0418\u043d\u0436\u0435\u043d\u0435\u0440-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a/\u0418\u043d\u0436\u0435\u043d\u0435\u0440-\u043a\u043e\u043d\u0441\u0442\u0440\u0443\u043a\u0442\u043e\u0440",
+        "url": "https://hh.ru/vacancy/83133508",
+        "api": "HeadHunter",
+        "salary_from": 110000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "employer": "Doumo",
+        "title": "Customer Support Specialist (SL2)",
+        "url": "https://hh.ru/vacancy/82044131",
+        "api": "HeadHunter",
+        "salary_from": 1000,
+        "salary_to": 2500,
+        "currency": "USD"
+    },
+    {
+        "employer": "\u0421\u043e\u0444\u0442\u0430\u0440\u0435\u043a\u0441 \u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0434\u0436\u0438\u0435\u0441",
+        "title": "React Native Developer",
+        "url": "https://hh.ru/vacancy/83076386",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "\u0410\u0424\u041a",
+        "title": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+        "url": "https://hh.ru/vacancy/82565557",
+        "api": "HeadHunter",
+        "salary_from": 60000,
+        "salary_to": 110000,
+        "currency": "RUR"
+    },
+    {
+        "employer": "\u0418\u043d\u0442\u0430\u043d\u0442",
+        "title": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442",
+        "url": "https://hh.ru/vacancy/71379557",
+        "api": "HeadHunter",
+        "salary_from": 25000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "employer": "\u0424\u0415\u0414\u0415\u0420\u0410\u0426\u0418\u042f \u041e\u0421\u0422\u0415\u041a\u041b\u0415\u041d\u0418\u042f",
+        "title": "\u041c\u0435\u043d\u0435\u0434\u0436\u0435\u0440 \u043f\u043e \u043f\u0440\u043e\u0434\u0430\u0436\u0430\u043c",
+        "url": "https://hh.ru/vacancy/81658353",
+        "api": "HeadHunter",
+        "salary_from": 80000,
+        "salary_to": 225000,
+        "currency": "RUR"
+    },
+    {
+        "employer": "\u0421\u0438\u0447\u0438\u043c \u0421.\u043f.\u0410 \u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d, \u0424\u0438\u043b\u0438\u0430\u043b",
+        "title": "Timekeeper",
+        "url": "https://hh.ru/vacancy/83075416",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "\u041a\u043e\u043c\u0443\u0441",
+        "title": "\u041a\u043e\u043d\u0441\u0442\u0440\u0443\u043a\u0442\u043e\u0440 3D \u043c\u043e\u0434\u0435\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435",
+        "url": "https://hh.ru/vacancy/82983964",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "Grintern",
+        "title": "Junior/Middle Accounting & Financial Specialist",
+        "url": "https://hh.ru/vacancy/82790716",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "Tech Nomads",
+        "title": "HR & Community Manager",
+        "url": "https://hh.ru/vacancy/81806351",
+        "api": "HeadHunter",
+        "salary_from": 1200,
+        "salary_to": 1650,
+        "currency": "USD"
+    },
+    {
+        "employer": "\u0420\u0443\u0442\u0438\u043d \u0410\u0443\u0442\u043e\u043c\u044d\u0439\u0448\u0435\u043d",
+        "title": "Content manager",
+        "url": "https://hh.ru/vacancy/81848793",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "Engoo",
+        "title": "Online English Tutor",
+        "url": "https://hh.ru/vacancy/82437668",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "\u041a\u043b\u0430\u0440\u043e \u0414\u0430\u0442\u0430 \u0421\u043e\u043b\u044e\u0448\u043d\u0441",
+        "title": "Financial Data Analyst",
+        "url": "https://hh.ru/vacancy/54513152",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "\u0420\u0422\u041a \u0410\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u043a\u0430",
+        "title": "\u0420\u0443\u043a\u043e\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u043a\u043e\u043c\u0430\u043d\u0434\u044b \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0438 \u0412\u041f\u041e \u043c\u0438\u043a\u0440\u043e\u043a\u043e\u043d\u0442\u0440\u043e\u043b\u043b\u0435\u0440\u043e\u0432 / Team Lead Embedded",
+        "url": "https://hh.ru/vacancy/83110288",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": 300000,
+        "currency": "RUR"
+    },
+    {
+        "employer": "Tefal",
+        "title": "SAP FI/CO Analyst",
+        "url": "https://hh.ru/vacancy/83141683",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "Yakov & Partners",
+        "title": "Accounting Assistant",
+        "url": "https://hh.ru/vacancy/80957097",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "\u041c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u0410\u044d\u0440\u043e\u043f\u043e\u0440\u0442 \u0410\u043b\u043c\u0430\u0442\u044b, \u0410\u041e",
+        "title": "Specialist of HRA",
+        "url": "https://hh.ru/vacancy/82759705",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "Premier Basic Professional",
+        "title": "\u041a\u043e\u043f\u0438\u0440\u0430\u0439\u0442\u0435\u0440 (\u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u0435\u0442\u0438 - B2B, \u043a\u043e\u0441\u043c\u0435\u0442\u043e\u043b\u043e\u0433\u0438\u044f)",
+        "url": "https://hh.ru/vacancy/82501906",
+        "api": "HeadHunter",
+        "salary_from": 60000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "employer": "\u0422\u0420\u0422",
+        "title": "Product manager",
+        "url": "https://hh.ru/vacancy/81981159",
+        "api": "HeadHunter",
+        "salary_from": 2000,
+        "salary_to": 5000,
+        "currency": "USD"
+    },
+    {
+        "employer": "S-ORCA",
+        "title": "\u041f\u0440\u0435\u043f\u043e\u0434\u0430\u0432\u0430\u0442\u0435\u043b\u044c Data Science",
+        "url": "https://hh.ru/vacancy/83074954",
+        "api": "HeadHunter",
+        "salary_from": 500,
+        "salary_to": 2000,
+        "currency": "USD"
+    },
+    {
+        "employer": "RegexSEO",
+        "title": "Digital Content Publisher",
+        "url": "https://hh.ru/vacancy/82985679",
+        "api": "HeadHunter",
+        "salary_from": 500,
+        "salary_to": 800,
+        "currency": "USD"
+    },
+    {
+        "employer": "\u041f\u0435\u0440\u043c\u044f\u043a\u043e\u0432\u0430 \u0410\u043d\u043d\u0430 \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u043d\u0430",
+        "title": "Content Specialist",
+        "url": "https://hh.ru/vacancy/82312172",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "\u0413\u0435\u043d\u0434\u0438\u043d\u0430 \u041a\u0441\u0435\u043d\u0438\u044f \u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u043e\u0432\u043d\u0430",
+        "title": "\u041c\u0430\u0441\u0442\u0435\u0440 \u041c\u0430\u043d\u0438\u043a\u044e\u0440\u0430/\u041f\u0435\u0434\u0438\u043a\u044e\u0440\u0430",
+        "url": "https://hh.ru/vacancy/82365498",
+        "api": "HeadHunter",
+        "salary_from": 40000,
+        "salary_to": 120000,
+        "currency": "RUR"
+    },
+    {
+        "employer": "F.A.C.C.T.",
+        "title": "Cyber Fraud Analyst",
+        "url": "https://hh.ru/vacancy/82349936",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "Andersen",
+        "title": "Sourcing Specialist",
+        "url": "https://hh.ru/vacancy/83095156",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "\u041f\u0435\u0440\u0441\u043f\u0435\u043a\u0442\u0438\u0432\u0430",
+        "title": "\u0418\u043d\u0436\u0435\u043d\u0435\u0440-\u043a\u043e\u043d\u0441\u0442\u0440\u0443\u043a\u0442\u043e\u0440",
+        "url": "https://hh.ru/vacancy/82337826",
+        "api": "HeadHunter",
+        "salary_from": 70000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "employer": "\u0425\u0438\u0442\u0430\u0447\u0438 \u0417\u043e\u0441\u0435\u043d \u0418\u043d\u043e\u0432\u0430 \u0440\u0443\u0441",
+        "title": "Site Administrator",
+        "url": "https://hh.ru/vacancy/83166118",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "Andersen",
+        "title": "Junior HR Manager",
+        "url": "https://hh.ru/vacancy/83174757",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": 550,
+        "currency": "EUR"
+    },
+    {
+        "employer": "HR-\u0418\u0440\u043a\u0443\u0442\u0441\u043a",
+        "title": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442 1\u0421",
+        "url": "https://hh.ru/vacancy/81290037",
+        "api": "HeadHunter",
+        "salary_from": 50000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "employer": "SoftTeco",
+        "title": "Marketing Manager",
+        "url": "https://hh.ru/vacancy/81971865",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "\u0428\u0435\u043c\u0435\u0442 \u0410\u043d\u0434\u0440\u0435\u0439 \u0421\u0435\u0440\u0433\u0435\u0435\u0432\u0438\u0447",
+        "title": "Junior Creative Producer",
+        "url": "https://hh.ru/vacancy/82671640",
+        "api": "HeadHunter",
+        "salary_from": 70000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "employer": "\u0424\u0430\u0440\u043c\u0430\u0441\u0438\u043d\u0442\u0435\u0437",
+        "title": "\u0418\u043d\u0436\u0435\u043d\u0435\u0440-\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442 \u0410\u0421\u0423\u0422\u041f",
+        "url": "https://bratsk.superjob.ru/vakansii/inzhener-programmist-asutp-30871519.html",
+        "api": "SuperJob",
+        "salary_from": 68000,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u0418\u041a \u0421\u0418\u0411\u0418\u041d\u0422\u0415\u041a",
+        "title": "\u0418\u043d\u0436\u0435\u043d\u0435\u0440 \u043e\u0442\u0434\u0435\u043b\u0430 \u0441\u043e\u043f\u0440\u043e\u0432\u043e\u0436\u0434\u0435\u043d\u0438\u044f \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0431\u0430\u043b\u0430\u043d\u0441\u0430",
+        "url": "https://ufa.superjob.ru/vakansii/inzhener-otdela-soprovozhdeniya-materialnogo-balansa-45890211.html",
+        "api": "SuperJob",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u0421\u0442\u043e\u043c\u0430\u0442\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u043f\u043e\u043b\u0438\u043a\u043b\u0438\u043d\u0438\u043a\u0430 \u211630",
+        "title": "IT-\u0441\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442",
+        "url": "https://spb.superjob.ru/vakansii/it-specialist-46606145.html",
+        "api": "SuperJob",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": "rub"
+    }
+]

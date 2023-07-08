@@ -30,6 +30,7 @@ def main():
         command = input(">>> ")
         print()
         if command == "0":
+            print("Работа программы завершена.")
             break
         elif command == "1":
             vacancies = jsonfile.json_read()

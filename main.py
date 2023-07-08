@@ -1,5 +1,5 @@
-import HHParcing
-import SJParcing
+from HHParcer import HHParcer
+from SJParcer import SJParcer
 import modules
 
 
@@ -10,8 +10,8 @@ def main():
     print()
     vacancies_json = []
 
-    hh = HHParcing.HeadHunterAPI(keyword)
-    sj = SJParcing.SuperJobAPI(keyword)
+    hh = HHParcer.HeadHunterAPI(keyword)
+    sj = SJParcer.SuperJobAPI(keyword)
 
     for api in [hh, sj]:
         api.get_vacancies()

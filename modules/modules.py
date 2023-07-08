@@ -24,7 +24,7 @@ class JsonFile:
 
     def __init__(self, keyword, vacancies_json):
         self.keyword = keyword
-        self.filename = f'{keyword.lower()}.json'
+        self.filename = f'jsondata/{keyword.lower()}.json'
         self.json_write(vacancies_json)
 
     def json_write(self, vacancies_json):

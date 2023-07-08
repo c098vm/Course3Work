@@ -1,0 +1,1802 @@
+[
+    {
+        "employer": "\u041e\u043b\u0438\u0445\u0432\u0435\u0440 \u0412. \u0412.",
+        "title": "\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a python (\u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u0435)",
+        "url": "https://hh.ru/vacancy/82868871",
+        "api": "HeadHunter",
+        "salary_from": 2500,
+        "salary_to": null,
+        "currency": "BYR"
+    },
+    {
+        "employer": "Soft Power",
+        "title": "Django \u0441\u0442\u0430\u0436\u0435\u0440",
+        "url": "https://hh.ru/vacancy/83008507",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "\u041c\u041a\u0421\u041a\u041e\u041c",
+        "title": "Junior Frontend \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a (\u0421\u0442\u0430\u0436\u0435\u0440)",
+        "url": "https://hh.ru/vacancy/82933897",
+        "api": "HeadHunter",
+        "salary_from": 55000,
+        "salary_to": 65000,
+        "currency": "RUR"
+    },
+    {
+        "employer": "\u0430\u0439\u0424\u043b\u0435\u043a\u0441, \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f",
+        "title": "\u0422\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0449\u0438\u043a (Junior)",
+        "url": "https://hh.ru/vacancy/82238787",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "SIMPLITY (\u041e\u041e\u041e \u0412\u044b\u043c\u043f\u0435\u043b-\u041f\u0440\u043e\u0444\u0418\u0422)",
+        "title": "\u0420\u0443\u043a\u043e\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u043d\u0430\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0430\u043d\u0430\u043b\u0438\u0437\u0430 \u0437\u0430\u0449\u0438\u0449\u0435\u043d\u043d\u043e\u0441\u0442\u0438",
+        "url": "https://hh.ru/vacancy/82458628",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "YLAB Development",
+        "title": "Python-\u0441\u0442\u0430\u0436\u0435\u0440",
+        "url": "https://hh.ru/vacancy/83166502",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "\u041a\u0440\u0438\u0442",
+        "title": "\u0421\u0442\u0430\u0436\u0435\u0440-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+        "url": "https://hh.ru/vacancy/83064546",
+        "api": "HeadHunter",
+        "salary_from": 40000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "employer": "Changellenge",
+        "title": "\u0421\u0442\u0430\u0436\u0435\u0440 \u043f\u043e \u043d\u0430\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044e \u0410\u043d\u0430\u043b\u0438\u0442\u0438\u043a\u0430 \u0438 Data Science",
+        "url": "https://hh.ru/vacancy/82008496",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "Positive Technologies",
+        "title": "Junior Python developer",
+        "url": "https://hh.ru/vacancy/83116394",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "\u0410\u041a\u0423\u0422\u0410",
+        "title": "Frontend-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+        "url": "https://hh.ru/vacancy/83111013",
+        "api": "HeadHunter",
+        "salary_from": 110000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "employer": "RTM Group",
+        "title": "Junior Backend Developer (Python)",
+        "url": "https://hh.ru/vacancy/83050891",
+        "api": "HeadHunter",
+        "salary_from": 50000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "employer": "Comexp",
+        "title": "Python-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a / Junior Python Developer",
+        "url": "https://hh.ru/vacancy/83041941",
+        "api": "HeadHunter",
+        "salary_from": 100000,
+        "salary_to": 150000,
+        "currency": "RUR"
+    },
+    {
+        "employer": "Express24",
+        "title": "Back End \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a (PHP/Python/Go)",
+        "url": "https://hh.ru/vacancy/83154274",
+        "api": "HeadHunter",
+        "salary_from": 17000000,
+        "salary_to": 20000000,
+        "currency": "UZS"
+    },
+    {
+        "employer": "\u0414\u043e\u043c \u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c",
+        "title": "Software Architect",
+        "url": "https://hh.ru/vacancy/80643047",
+        "api": "HeadHunter",
+        "salary_from": 240000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "employer": "\u0424\u0438\u043d\u0441\u0442\u0435\u043a \u0411\u0435\u043b",
+        "title": "Junior Data Specialist (Python and SQL)",
+        "url": "https://hh.ru/vacancy/83149686",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "\u0411\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c \u041e\u043d-\u043b\u0430\u0439\u043d",
+        "title": "\u0412\u0435\u0434\u0443\u0449\u0438\u0439 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442 Python",
+        "url": "https://hh.ru/vacancy/83095226",
+        "api": "HeadHunter",
+        "salary_from": 2000,
+        "salary_to": null,
+        "currency": "BYR"
+    },
+    {
+        "employer": "\u0422\u0430\u0439\u043f\u0422\u0430\u0439\u043f",
+        "title": "\u0418\u043d\u0436\u0435\u043d\u0435\u0440-\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442 (Junior)",
+        "url": "https://hh.ru/vacancy/83019820",
+        "api": "HeadHunter",
+        "salary_from": 75000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "employer": "\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u043c\u0435\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u0442\u0435\u043d",
+        "title": "\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442 \u043e\u0442\u0434\u0435\u043b\u0430 \u0430\u043d\u0430\u043b\u0438\u0442\u0438\u043a\u0438",
+        "url": "https://hh.ru/vacancy/83099990",
+        "api": "HeadHunter",
+        "salary_from": 85000,
+        "salary_to": 85000,
+        "currency": "RUR"
+    },
+    {
+        "employer": "Admitad",
+        "title": "Middle QA Engineer",
+        "url": "https://hh.ru/vacancy/83164797",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "\u0410\u0439\u0422\u0438-\u0421\u043e\u043b\u044e\u0448\u043d",
+        "title": "\u0421\u0442\u0430\u0436\u0435\u0440 \u0432 IT-\u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044e (\u0441 \u0443\u043a\u043b\u043e\u043d\u043e\u043c \u0432 python \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0443)",
+        "url": "https://hh.ru/vacancy/82345120",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "\u0415\u043a\u043e\u043c\u0441\u0435\u043b\u043b\u0435\u0440",
+        "title": "\u041d\u0430\u0447\u0438\u043d\u0430\u044e\u0449\u0438\u0439 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442 (\u0441\u0442\u0430\u0436\u0435\u0440)",
+        "url": "https://hh.ru/vacancy/82868479",
+        "api": "HeadHunter",
+        "salary_from": 30000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "employer": "\u04228",
+        "title": "\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a Python (junior)",
+        "url": "https://hh.ru/vacancy/82667089",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "\u0410\u041e \u041d\u0422\u0426 \u0410\u0442\u043b\u0430\u0441",
+        "title": "Junior backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a \u043d\u0430 Python",
+        "url": "https://hh.ru/vacancy/83055812",
+        "api": "HeadHunter",
+        "salary_from": 80000,
+        "salary_to": 120000,
+        "currency": "RUR"
+    },
+    {
+        "employer": "\u0410\u0433\u0435\u043d\u0442\u0441\u0442\u0432\u043e 21 \u0432\u0435\u043a, \u041a\u0426",
+        "title": "\u0422\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0449\u0438\u043a, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
+        "url": "https://hh.ru/vacancy/82076817",
+        "api": "HeadHunter",
+        "salary_from": 100000,
+        "salary_to": 150000,
+        "currency": "RUR"
+    },
+    {
+        "employer": "\u0420\u0414\u041f.\u0420\u0423",
+        "title": "Junior Developer Go",
+        "url": "https://hh.ru/vacancy/82984262",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "\u041a\u0438\u0431\u0435\u0440\u0438\u044f",
+        "title": "Junior Software Developer",
+        "url": "https://hh.ru/vacancy/82914456",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "\u041b\u0438\u0433\u0430 \u0421\u0442\u0430\u0432\u043e\u043a",
+        "title": "Senior Mobile Analyst",
+        "url": "https://hh.ru/vacancy/82195317",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "\u00ab\u0424\u0418\u041d\u0410\u041d\u0421\u041e\u0412\u042b\u0419 \u0425\u041e\u041b\u0414\u0418\u041d\u0413 \u00ab\u0420\u0415\u0421\u041f\u0423\u0411\u041b\u0418\u041a\u0410\u00bb",
+        "title": "Junior Python Backend",
+        "url": "https://hh.ru/vacancy/83031877",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": 300000,
+        "currency": "KZT"
+    },
+    {
+        "employer": "\u0410\u041b\u042c\u0422\u0415\u041a \u0421\u0418\u0421\u0422\u0415\u041c\u0421",
+        "title": "Junior Backend",
+        "url": "https://hh.ru/vacancy/83055259",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "\u0421\u0442\u0440\u043e\u0439-\u041e\u0442\u0434\u0435\u043b\u043a\u0430",
+        "title": "\u0421\u0442\u0430\u0436\u0435\u0440-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+        "url": "https://hh.ru/vacancy/82631531",
+        "api": "HeadHunter",
+        "salary_from": 40000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "employer": "\u0412\u0435\u0440\u043c\u0435",
+        "title": "\u0410\u043d\u0430\u043b\u0438\u0442\u0438\u043a \u0434\u0430\u043d\u043d\u044b\u0445",
+        "url": "https://hh.ru/vacancy/83114951",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "\u00abFREEDOM TELECOM\u00bb",
+        "title": "\u0410\u043d\u0430\u043b\u0438\u0442\u0438\u043a",
+        "url": "https://hh.ru/vacancy/83003119",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": 750000,
+        "currency": "KZT"
+    },
+    {
+        "employer": "AdCombo.com",
+        "title": "\u0418\u043d\u0436\u0435\u043d\u0435\u0440 \u043f\u043e \u0442\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044e / QA engineer",
+        "url": "https://hh.ru/vacancy/82773820",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "\u0421\u041f\u0423\u0422\u041d\u0418\u041a\u0421",
+        "title": "\u0418\u043d\u0436\u0435\u043d\u0435\u0440-\u0442\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0449\u0438\u043a",
+        "url": "https://hh.ru/vacancy/83102048",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "Alt.Point",
+        "title": "Back-end \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a Python, Django",
+        "url": "https://hh.ru/vacancy/83152294",
+        "api": "HeadHunter",
+        "salary_from": 60000,
+        "salary_to": 90000,
+        "currency": "RUR"
+    },
+    {
+        "employer": "Syndata.io.",
+        "title": "\u0410\u043d\u0430\u043b\u0438\u0442\u0438\u043a \u0434\u0430\u043d\u043d\u044b\u0445, Excel + \u0432\u0438\u0437\u0443\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438",
+        "url": "https://hh.ru/vacancy/82844540",
+        "api": "HeadHunter",
+        "salary_from": 150000,
+        "salary_to": 180000,
+        "currency": "RUR"
+    },
+    {
+        "employer": "Prime Source",
+        "title": "\u0421\u0442\u0430\u0436\u0435\u0440-\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442 \u0432 \u043e\u0442\u0434\u0435\u043b \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438",
+        "url": "https://hh.ru/vacancy/83003932",
+        "api": "HeadHunter",
+        "salary_from": 100000,
+        "salary_to": null,
+        "currency": "KZT"
+    },
+    {
+        "employer": "\u0422\u041e\u041f \u041a\u0415\u0419\u0421",
+        "title": "QA \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442 (junior+)",
+        "url": "https://hh.ru/vacancy/81559931",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "\u0411\u0410\u041d\u041a \u0423\u0420\u0410\u041b\u0421\u0418\u0411",
+        "title": "Junior developer",
+        "url": "https://hh.ru/vacancy/83085936",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "Plastilin",
+        "title": "\u0424\u0440\u043e\u043d\u0442\u0435\u043d\u0434-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+        "url": "https://hh.ru/vacancy/83048538",
+        "api": "HeadHunter",
+        "salary_from": 140000,
+        "salary_to": 160000,
+        "currency": "RUR"
+    },
+    {
+        "employer": "CoMagic.dev",
+        "title": "Python developer",
+        "url": "https://hh.ru/vacancy/82928430",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "\u042d\u0442\u0435\u0440\u043e\u043d",
+        "title": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442 Python",
+        "url": "https://hh.ru/vacancy/83028791",
+        "api": "HeadHunter",
+        "salary_from": 60000,
+        "salary_to": 120000,
+        "currency": "RUR"
+    },
+    {
+        "employer": "MindSet",
+        "title": "\u0423\u0434\u0430\u043b\u0435\u043d\u043d\u044b\u0439 \u0441\u0442\u0430\u0436\u0435\u0440-\u0430\u043d\u0430\u043b\u0438\u0442\u0438\u043a (computer vision)",
+        "url": "https://hh.ru/vacancy/82839132",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "\u0413\u0440\u0443\u043f\u043f\u0430 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439 \u0410\u0441\u0442\u0440\u0430",
+        "title": "\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a Frontend (JS/TS) \u0432 R&D \u043f\u043e\u0447\u0442\u043e\u0432\u043e\u0433\u043e \u0441\u0435\u0440\u0432\u0435\u0440\u0430 RuPost.",
+        "url": "https://hh.ru/vacancy/81224988",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "DNS \u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438",
+        "title": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442 Python (Junior)",
+        "url": "https://hh.ru/vacancy/82889533",
+        "api": "HeadHunter",
+        "salary_from": 70000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "employer": "\u0421\u0430\u043c\u043e\u043a\u0430\u0442 (\u041e\u041e\u041e \u0423\u043c\u043d\u044b\u0439 \u0440\u0438\u0442\u0435\u0439\u043b)",
+        "title": "Junior data analyst",
+        "url": "https://hh.ru/vacancy/83100771",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "Fojin",
+        "title": "React Developer",
+        "url": "https://hh.ru/vacancy/83029159",
+        "api": "HeadHunter",
+        "salary_from": 45000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "employer": "\u042d\u043a\u0441\u0431\u043e \u0421\u0435\u0432\u0435\u0440",
+        "title": "\u0410\u043d\u0430\u043b\u0438\u0442\u0438\u043a \u0414\u0430\u043d\u043d\u044b\u0445 / Data Analyst (\u0433\u0435\u0439\u043c\u0434\u0435\u0432)",
+        "url": "https://hh.ru/vacancy/83117859",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "\u0422\u0440\u0430\u043d\u0441\u043d\u0435\u0444\u0442\u044c-\u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438",
+        "title": "\u0410\u043d\u0430\u043b\u0438\u0442\u0438\u043a \u0434\u0430\u043d\u043d\u044b\u0445",
+        "url": "https://hh.ru/vacancy/83117694",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "\u041a\u0440\u0430\u0444\u0442\u0432\u044d\u0439 \u043a\u043e\u0440\u043f\u043e\u0440\u044d\u0439\u0448\u043d \u041f\u041b\u0421",
+        "title": "\u0418\u043d\u0436\u0435\u043d\u0435\u0440 \u043f\u043e \u0442\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044e \u041f\u041e",
+        "url": "https://hh.ru/vacancy/82003774",
+        "api": "HeadHunter",
+        "salary_from": 80000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "employer": "\u0411\u0430\u0437\u0430\u043b\u044c\u0442 \u0421\u041f\u041e",
+        "title": "\u041c\u043b\u0430\u0434\u0448\u0438\u0439 \u0438\u043d\u0436\u0435\u043d\u0435\u0440 \u043f\u043e \u0442\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044e \u041f\u041e",
+        "url": "https://hh.ru/vacancy/83114858",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": 77000,
+        "currency": "RUR"
+    },
+    {
+        "employer": "\u041c.\u0412\u0438\u0434\u0435\u043e-\u042d\u043b\u044c\u0434\u043e\u0440\u0430\u0434\u043e",
+        "title": "\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a Python",
+        "url": "https://hh.ru/vacancy/83160163",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "Saber Interactive",
+        "title": "Junior Manual QA Engineer",
+        "url": "https://hh.ru/vacancy/79058266",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "\u041a\u0430\u0441\u044c\u044f\u043d\u043e\u0432 \u0414\u0435\u043d\u0438\u0441 \u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\u043e\u0432\u0438\u0447",
+        "title": "\u041f\u043e\u043c\u043e\u0449\u043d\u0438\u043a \u0432\u0435\u0431-\u043c\u0430\u0441\u0442\u0435\u0440\u0430/HTML-\u0432\u0435\u0440\u0441\u0442\u0430\u043b\u044c\u0449\u0438\u043a",
+        "url": "https://hh.ru/vacancy/81857159",
+        "api": "HeadHunter",
+        "salary_from": 40000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "employer": "\u0414\u0435\u0432\u0435\u043b\u043e\u043d\u0438\u043a\u0430",
+        "title": "\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a Python",
+        "url": "https://hh.ru/vacancy/83152170",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "\u0410\u043a\u0430\u0434\u0435\u043c\u0438\u044f 1\u0421 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f ITS Education",
+        "title": "\u0421\u0442\u0430\u0436\u0435\u0440 \u0432 IT \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044e",
+        "url": "https://hh.ru/vacancy/81825691",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "\u0420\u0443\u0442 \u041a\u043e\u0434",
+        "title": "Backend \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a (Python)",
+        "url": "https://hh.ru/vacancy/82617424",
+        "api": "HeadHunter",
+        "salary_from": 100000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "employer": "\u041d\u0443\u043c\u0435\u0434\u0438",
+        "title": "\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a Python Junior",
+        "url": "https://hh.ru/vacancy/82988392",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "\u0418\u043d\u0442\u0435\u0440\u0444\u0430\u043a\u0441",
+        "title": "QA Engineer manual (\u0421\u041a\u0410\u041d)",
+        "url": "https://hh.ru/vacancy/83136517",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "\u041a\u043e\u043b\u043b-\u0422\u0443\u043b\u0437",
+        "title": "Junior Python developer (\u041a\u0430\u0437\u0430\u043d\u044c)",
+        "url": "https://hh.ru/vacancy/81707467",
+        "api": "HeadHunter",
+        "salary_from": 70000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "employer": "\u041d\u0415\u041e\u0421",
+        "title": "Java Developer / \u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a \u043d\u0430 Java (backend)",
+        "url": "https://hh.ru/vacancy/82935604",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "Olima",
+        "title": "\u041c\u043b\u0430\u0434\u0448\u0438\u0439 \u0430\u043d\u0430\u043b\u0438\u0442\u0438\u043a (IT)",
+        "url": "https://hh.ru/vacancy/82175449",
+        "api": "HeadHunter",
+        "salary_from": 100000,
+        "salary_to": 140000,
+        "currency": "RUR"
+    },
+    {
+        "employer": "\u0413\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u0442\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442\u043d\u0430\u044f \u043b\u0438\u0437\u0438\u043d\u0433\u043e\u0432\u0430\u044f \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f",
+        "title": "\u0412\u0435\u0434\u0443\u0449\u0438\u0439 \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442 \u043e\u0442\u0434\u0435\u043b\u0430 \u043f\u0440\u043e\u0433\u043d\u043e\u0437\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u0424\u0438\u043d\u0430\u043d\u0441\u043e\u0432\u043e\u0439 \u0414\u0438\u0440\u0435\u043a\u0446\u0438\u0438",
+        "url": "https://hh.ru/vacancy/81445795",
+        "api": "HeadHunter",
+        "salary_from": 80950,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "employer": "Webtronics",
+        "title": "Junior/Middle backend \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a \u043d\u0430 Fast API (Python)",
+        "url": "https://hh.ru/vacancy/82841724",
+        "api": "HeadHunter",
+        "salary_from": 50000,
+        "salary_to": 100000,
+        "currency": "RUR"
+    },
+    {
+        "employer": "\u041e\u043f\u0442\u0438\u043c\u0430\u043b\u0424\u043b\u043e\u0443 \u0413\u0440\u0443\u043f\u043f",
+        "title": "Python Web \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+        "url": "https://hh.ru/vacancy/83148476",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "\u041b\u0438\u0433\u0430 \u0421\u0442\u0430\u0432\u043e\u043a",
+        "title": "Head of Digital Analytics",
+        "url": "https://hh.ru/vacancy/82173123",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "ASTER AUTO",
+        "title": "\u0421\u0442\u0430\u0436\u0435\u0440\\Data engineer\\Python developer",
+        "url": "https://hh.ru/vacancy/82440351",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "Topface",
+        "title": "\u041c\u043b\u0430\u0434\u0448\u0438\u0439 \u0430\u043d\u0430\u043b\u0438\u0442\u0438\u043a",
+        "url": "https://hh.ru/vacancy/82909280",
+        "api": "HeadHunter",
+        "salary_from": 30000,
+        "salary_to": 40000,
+        "currency": "RUR"
+    },
+    {
+        "employer": "\u041d\u041f\u041a \u0410\u0442\u0440\u043e\u043d\u0438\u043a",
+        "title": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+        "url": "https://hh.ru/vacancy/83080497",
+        "api": "HeadHunter",
+        "salary_from": 80000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "employer": "\u042d\u043b\u0435\u043a\u0430\u0440\u0434",
+        "title": "QA engineer / \u0422\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0449\u0438\u043a",
+        "url": "https://hh.ru/vacancy/83088117",
+        "api": "HeadHunter",
+        "salary_from": 30000,
+        "salary_to": 60000,
+        "currency": "RUR"
+    },
+    {
+        "employer": "\u0413\u0440\u0443\u043f\u043f\u0430 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439 \u041c\u0415\u0414\u0421\u0418",
+        "title": "\u0410\u043d\u0430\u043b\u0438\u0442\u0438\u043a \u0434\u0430\u043d\u043d\u044b\u0445 (Python)",
+        "url": "https://hh.ru/vacancy/83091712",
+        "api": "HeadHunter",
+        "salary_from": 70000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "employer": "\u0421\u043e\u0432\u043a\u043e\u043c\u0431\u0430\u043d\u043a \u0421\u0442\u0440\u0430\u0445\u043e\u0432\u0430\u043d\u0438\u0435",
+        "title": "Junior Data Scientist",
+        "url": "https://hh.ru/vacancy/82534003",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "\u0421\u0438\u0431\u0438\u0440\u0441\u043a\u0438\u0439 \u043c\u0435\u0434\u0432\u0435\u0434\u044c",
+        "title": "\u0410\u043d\u0430\u043b\u0438\u0442\u0438\u043a/Junior \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a python",
+        "url": "https://hh.ru/vacancy/83077041",
+        "api": "HeadHunter",
+        "salary_from": 40000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "employer": "\u041d\u0415\u041e\u0421\u041e\u0424\u0422",
+        "title": "Backend - \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+        "url": "https://hh.ru/vacancy/83147041",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "Sitronics KT",
+        "title": "Python Backend Developer",
+        "url": "https://hh.ru/vacancy/82898488",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "\u0410\u0440\u043c\u0442\u0435\u043a",
+        "title": "\u0422\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0449\u0438\u043a (\u0423\u0434\u0430\u043b\u0435\u043d\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430)",
+        "url": "https://hh.ru/vacancy/83017626",
+        "api": "HeadHunter",
+        "salary_from": 128250,
+        "salary_to": 128250,
+        "currency": "RUR"
+    },
+    {
+        "employer": "Ventra IT Solutions",
+        "title": "\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442 \u043f\u043e \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0435 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u0435\u0439 \u0438 \u0441\u0438\u0441\u0442\u0435\u043c",
+        "url": "https://hh.ru/vacancy/82475368",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": 130000,
+        "currency": "RUR"
+    },
+    {
+        "employer": "APPTRIX",
+        "title": "Back-end developer Python Junior / \u0411\u0435\u043a\u0435\u043d\u0434-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a Python",
+        "url": "https://hh.ru/vacancy/82684647",
+        "api": "HeadHunter",
+        "salary_from": 50000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "employer": "STRONG TEAM",
+        "title": "QA \u0438\u043d\u0436\u0435\u043d\u0435\u0440 / \u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442 \u043f\u043e \u0442\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044e / \u0422\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0449\u0438\u043a",
+        "url": "https://hh.ru/vacancy/82984295",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "BRANDPOL",
+        "title": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442 Python Junior (BigData)",
+        "url": "https://hh.ru/vacancy/82524858",
+        "api": "HeadHunter",
+        "salary_from": 45000,
+        "salary_to": 100000,
+        "currency": "RUR"
+    },
+    {
+        "employer": "\u0410\u0434\u0430\u043b\u0438\u0441\u043a",
+        "title": "QA Engineer / \u0422\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0449\u0438\u043a \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u043d\u043e\u0433\u043e \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0435\u043d\u0438\u044f",
+        "url": "https://hh.ru/vacancy/82831965",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": 3000,
+        "currency": "USD"
+    },
+    {
+        "employer": "Webtronics",
+        "title": "\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438/Junior \u0422\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0449\u0438\u043a (QA Engineer)",
+        "url": "https://hh.ru/vacancy/82840983",
+        "api": "HeadHunter",
+        "salary_from": 30000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "employer": "AX TECHNOLOGY (OOO INSANE GROUP CO)",
+        "title": "Junior Data Analyst",
+        "url": "https://hh.ru/vacancy/83084686",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "Finstar Financial Group",
+        "title": "Junior QA Engineer, \u0421\u0435\u0440\u0431\u0438\u044f",
+        "url": "https://hh.ru/vacancy/82097143",
+        "api": "HeadHunter",
+        "salary_from": 1000,
+        "salary_to": 1200,
+        "currency": "EUR"
+    },
+    {
+        "employer": "\u0418\u043d\u0444\u043e\u0422\u0435\u041a\u0421",
+        "title": "QA/\u0422\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0449\u0438\u043a",
+        "url": "https://hh.ru/vacancy/83044586",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "Botster",
+        "title": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442 Python (\u043f\u0430\u0440\u0441\u0438\u043d\u0433 \u0434\u0430\u043d\u043d\u044b\u0445)",
+        "url": "https://hh.ru/vacancy/83053964",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": 40000,
+        "currency": "RUR"
+    },
+    {
+        "employer": "\u041b\u0418\u0418\u0421 \u0418\u043d\u0436\u0435\u043d\u0435\u0440\u043d\u044b\u0435 \u0420\u0435\u0448\u0435\u043d\u0438\u044f",
+        "title": "QA Engineer (Junior)",
+        "url": "https://hh.ru/vacancy/81855673",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "Digital \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f, \u043e\u0440\u0438\u0435\u043d\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u0430\u044f \u043d\u0430 \u0440\u044b\u043d\u043a\u0438 LATAM.",
+        "title": "Junior \u0410\u043d\u0430\u043b\u0438\u0442\u0438\u043a \u0434\u0430\u043d\u043d\u044b\u0445 / \u0412\u0435\u0431-\u0430\u043d\u0430\u043b\u0438\u0442\u0438\u043a",
+        "url": "https://hh.ru/vacancy/82122721",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": 50000,
+        "currency": "RUR"
+    },
+    {
+        "employer": "\u0410\u0432\u0442\u043e-\u0415\u0432\u0440\u043e",
+        "title": "\u0410\u043d\u0430\u043b\u0438\u0442\u0438\u043a",
+        "url": "https://hh.ru/vacancy/82908238",
+        "api": "HeadHunter",
+        "salary_from": 90000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "employer": "\u0420\u043e\u0441\u0442\u0435\u043b\u0435\u043a\u043e\u043c - \u0426\u0435\u043d\u0442\u0440\u044b \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u043a\u0438 \u0434\u0430\u043d\u043d\u044b\u0445",
+        "title": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442 Python (Junior+/Middle)",
+        "url": "https://hh.ru/vacancy/82987200",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "\u0413\u0430\u0437\u043f\u0440\u043e\u043c\u0431\u0430\u043d\u043a",
+        "title": "\u0410\u043d\u0430\u043b\u0438\u0442\u0438\u043a",
+        "url": "https://hh.ru/vacancy/83069888",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "Polymedia",
+        "title": "\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a DWH, ETL",
+        "url": "https://hh.ru/vacancy/80643834",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "\u0429\u0435\u0440\u0431\u0438\u043d \u0410\u043b\u0435\u043a\u0441\u0435\u0439 \u0421\u0435\u0440\u0433\u0435\u0435\u0432\u0438\u0447",
+        "title": "\u0410\u043d\u0430\u043b\u0438\u0442\u0438\u043a \u0434\u0430\u043d\u043d\u044b\u0445 / Data Analyst (Junior)",
+        "url": "https://hh.ru/vacancy/81241165",
+        "api": "HeadHunter",
+        "salary_from": 50000,
+        "salary_to": 70000,
+        "currency": "RUR"
+    },
+    {
+        "employer": "Nti.team",
+        "title": "\u0421\u0442\u0430\u0436\u0435\u0440 Back-end \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a\u0430: php, java, python, c#",
+        "url": "https://hh.ru/vacancy/82870266",
+        "api": "HeadHunter",
+        "salary_from": 15000,
+        "salary_to": 30000,
+        "currency": "RUR"
+    },
+    {
+        "employer": "Quantum Brains",
+        "title": "Junior Trader",
+        "url": "https://hh.ru/vacancy/83136847",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u0431\u0430\u043d\u043a \u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\u0430",
+        "title": "\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a (python developer)",
+        "url": "https://hh.ru/vacancy/82157776",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "\u0412\u0437\u043e\u0440",
+        "title": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442 Python",
+        "url": "https://hh.ru/vacancy/82937180",
+        "api": "HeadHunter",
+        "salary_from": 40000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "employer": "BI Consult",
+        "title": "\u0410\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u043e\u0440 \u0431\u0430\u0437 \u0434\u0430\u043d\u043d\u044b\u0445 / \u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442 SQL",
+        "url": "https://hh.ru/vacancy/81953262",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "\u0421\u0435\u0440\u0432\u0438\u0441 \u041f\u043b\u044e\u0441",
+        "title": "\u0422\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0449\u0438\u043a \u041f\u041e/QA \u0438\u043d\u0436\u0435\u043d\u0435\u0440 (\u043f\u0440\u043e\u0434\u0443\u043a\u0442\u043e\u0432\u0430\u044f IT \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f, \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435 \u0432 \u0430\u0432\u0442\u043e\u0442\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0438)",
+        "url": "https://hh.ru/vacancy/82941518",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "\u041f\u0440\u043e\u041a\u043e\u043c\u043f\u043b\u0430\u0435\u043d\u0441",
+        "title": "\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a/junior (\u043e\u0444\u0438\u0441)",
+        "url": "https://hh.ru/vacancy/81357710",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "employer": "\u0413\u0411\u041f\u041e\u0423 \u0414\u0435\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442\u0430 \u0417\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u0413\u043e\u0440\u043e\u0434\u0430 \u041c\u043e\u0441\u043a\u0432\u044b \u041c\u0435\u0434\u0438\u0446\u0438\u043d\u0441\u043a\u0438\u0439 \u041a\u043e\u043b\u043b\u0435\u0434\u0436 \u2116 7",
+        "title": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442 1C",
+        "url": "https://www.superjob.ru/vakansii/programmist-1c-44933587.html",
+        "api": "SuperJob",
+        "salary_from": 40065,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u042f\u043d\u0434\u0435\u043a\u0441",
+        "title": "\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442 \u0441\u043b\u0443\u0436\u0431\u044b \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438 \u0441 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u043c\u0438 \u0437\u043d\u0430\u043d\u0438\u044f\u043c\u0438",
+        "url": "https://kislovodsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-46109026.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u042f\u043d\u0434\u0435\u043a\u0441",
+        "title": "\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442 \u0441\u043b\u0443\u0436\u0431\u044b \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438 \u0441 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u043c\u0438 \u0437\u043d\u0430\u043d\u0438\u044f\u043c\u0438",
+        "url": "https://kovrov.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-46109027.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u042f\u043d\u0434\u0435\u043a\u0441",
+        "title": "\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442 \u0441\u043b\u0443\u0436\u0431\u044b \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438 \u0441 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u043c\u0438 \u0437\u043d\u0430\u043d\u0438\u044f\u043c\u0438",
+        "url": "https://kolomna.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-46109028.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u042f\u043d\u0434\u0435\u043a\u0441",
+        "title": "\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442 \u0441\u043b\u0443\u0436\u0431\u044b \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438 \u0441 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u043c\u0438 \u0437\u043d\u0430\u043d\u0438\u044f\u043c\u0438",
+        "url": "https://komsomolsk-na-amure.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-46109030.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u042f\u043d\u0434\u0435\u043a\u0441",
+        "title": "\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442 \u0441\u043b\u0443\u0436\u0431\u044b \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438 \u0441 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u043c\u0438 \u0437\u043d\u0430\u043d\u0438\u044f\u043c\u0438",
+        "url": "https://kopeysk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-46109031.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u042f\u043d\u0434\u0435\u043a\u0441",
+        "title": "\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442 \u0441\u043b\u0443\u0436\u0431\u044b \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438 \u0441 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u043c\u0438 \u0437\u043d\u0430\u043d\u0438\u044f\u043c\u0438",
+        "url": "https://korolev.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-46109032.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u042f\u043d\u0434\u0435\u043a\u0441",
+        "title": "\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442 \u0441\u043b\u0443\u0436\u0431\u044b \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438 \u0441 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u043c\u0438 \u0437\u043d\u0430\u043d\u0438\u044f\u043c\u0438",
+        "url": "https://kostroma.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-46109033.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u042f\u043d\u0434\u0435\u043a\u0441",
+        "title": "\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442 \u0441\u043b\u0443\u0436\u0431\u044b \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438 \u0441 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u043c\u0438 \u0437\u043d\u0430\u043d\u0438\u044f\u043c\u0438",
+        "url": "https://krasnogorsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-46109034.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u042f\u043d\u0434\u0435\u043a\u0441",
+        "title": "\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442 \u0441\u043b\u0443\u0436\u0431\u044b \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438 \u0441 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u043c\u0438 \u0437\u043d\u0430\u043d\u0438\u044f\u043c\u0438",
+        "url": "https://krasnodar.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-46109035.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u042f\u043d\u0434\u0435\u043a\u0441",
+        "title": "\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442 \u0441\u043b\u0443\u0436\u0431\u044b \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438 \u0441 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u043c\u0438 \u0437\u043d\u0430\u043d\u0438\u044f\u043c\u0438",
+        "url": "https://krasnoyarsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-46109036.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u042f\u043d\u0434\u0435\u043a\u0441",
+        "title": "\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442 \u0441\u043b\u0443\u0436\u0431\u044b \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438 \u0441 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u043c\u0438 \u0437\u043d\u0430\u043d\u0438\u044f\u043c\u0438",
+        "url": "https://kurgan.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-46109037.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u042f\u043d\u0434\u0435\u043a\u0441",
+        "title": "\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442 \u0441\u043b\u0443\u0436\u0431\u044b \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438 \u0441 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u043c\u0438 \u0437\u043d\u0430\u043d\u0438\u044f\u043c\u0438",
+        "url": "https://kursk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-46109038.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u042f\u043d\u0434\u0435\u043a\u0441",
+        "title": "\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442 \u0441\u043b\u0443\u0436\u0431\u044b \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438 \u0441 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u043c\u0438 \u0437\u043d\u0430\u043d\u0438\u044f\u043c\u0438",
+        "url": "https://kyzyl.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-46109039.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u042f\u043d\u0434\u0435\u043a\u0441",
+        "title": "\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442 \u0441\u043b\u0443\u0436\u0431\u044b \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438 \u0441 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u043c\u0438 \u0437\u043d\u0430\u043d\u0438\u044f\u043c\u0438",
+        "url": "https://lipetsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-46109040.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u042f\u043d\u0434\u0435\u043a\u0441",
+        "title": "\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442 \u0441\u043b\u0443\u0436\u0431\u044b \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438 \u0441 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u043c\u0438 \u0437\u043d\u0430\u043d\u0438\u044f\u043c\u0438",
+        "url": "https://lyubertsy.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-46109041.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u042f\u043d\u0434\u0435\u043a\u0441",
+        "title": "\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442 \u0441\u043b\u0443\u0436\u0431\u044b \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438 \u0441 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u043c\u0438 \u0437\u043d\u0430\u043d\u0438\u044f\u043c\u0438",
+        "url": "https://magnitogorsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-46109042.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u042f\u043d\u0434\u0435\u043a\u0441",
+        "title": "\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442 \u0441\u043b\u0443\u0436\u0431\u044b \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438 \u0441 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u043c\u0438 \u0437\u043d\u0430\u043d\u0438\u044f\u043c\u0438",
+        "url": "https://maikop.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-46109043.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u042f\u043d\u0434\u0435\u043a\u0441",
+        "title": "\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442 \u0441\u043b\u0443\u0436\u0431\u044b \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438 \u0441 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u043c\u0438 \u0437\u043d\u0430\u043d\u0438\u044f\u043c\u0438",
+        "url": "https://mytischi.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-46109049.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u042f\u043d\u0434\u0435\u043a\u0441",
+        "title": "\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442 \u0441\u043b\u0443\u0436\u0431\u044b \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438 \u0441 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u043c\u0438 \u0437\u043d\u0430\u043d\u0438\u044f\u043c\u0438",
+        "url": "https://naberezhnye-chelny.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-46109050.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u042f\u043d\u0434\u0435\u043a\u0441",
+        "title": "\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442 \u0441\u043b\u0443\u0436\u0431\u044b \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438 \u0441 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u043c\u0438 \u0437\u043d\u0430\u043d\u0438\u044f\u043c\u0438",
+        "url": "https://nazran.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-46109051.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u042f\u043d\u0434\u0435\u043a\u0441",
+        "title": "\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442 \u0441\u043b\u0443\u0436\u0431\u044b \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438 \u0441 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u043c\u0438 \u0437\u043d\u0430\u043d\u0438\u044f\u043c\u0438",
+        "url": "https://nalchik.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-46109052.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u042f\u043d\u0434\u0435\u043a\u0441",
+        "title": "\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442 \u0441\u043b\u0443\u0436\u0431\u044b \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438 \u0441 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u043c\u0438 \u0437\u043d\u0430\u043d\u0438\u044f\u043c\u0438",
+        "url": "https://nahodka.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-46109053.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u042f\u043d\u0434\u0435\u043a\u0441",
+        "title": "\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442 \u0441\u043b\u0443\u0436\u0431\u044b \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438 \u0441 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u043c\u0438 \u0437\u043d\u0430\u043d\u0438\u044f\u043c\u0438",
+        "url": "https://nevinnomyssk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-46109054.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u042f\u043d\u0434\u0435\u043a\u0441",
+        "title": "\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442 \u0441\u043b\u0443\u0436\u0431\u044b \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438 \u0441 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u043c\u0438 \u0437\u043d\u0430\u043d\u0438\u044f\u043c\u0438",
+        "url": "https://neftekamsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-46109055.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u042f\u043d\u0434\u0435\u043a\u0441",
+        "title": "\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442 \u0441\u043b\u0443\u0436\u0431\u044b \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438 \u0441 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u043c\u0438 \u0437\u043d\u0430\u043d\u0438\u044f\u043c\u0438",
+        "url": "https://nefteyugansk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-46109056.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u042f\u043d\u0434\u0435\u043a\u0441",
+        "title": "\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442 \u0441\u043b\u0443\u0436\u0431\u044b \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438 \u0441 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u043c\u0438 \u0437\u043d\u0430\u043d\u0438\u044f\u043c\u0438",
+        "url": "https://nizhnevartovsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-46109057.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u042f\u043d\u0434\u0435\u043a\u0441",
+        "title": "\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442 \u0441\u043b\u0443\u0436\u0431\u044b \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438 \u0441 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u043c\u0438 \u0437\u043d\u0430\u043d\u0438\u044f\u043c\u0438",
+        "url": "https://nizhnekamsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-46109058.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u042f\u043d\u0434\u0435\u043a\u0441",
+        "title": "\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442 \u0441\u043b\u0443\u0436\u0431\u044b \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438 \u0441 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u043c\u0438 \u0437\u043d\u0430\u043d\u0438\u044f\u043c\u0438",
+        "url": "https://nn.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-46109059.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u042f\u043d\u0434\u0435\u043a\u0441",
+        "title": "\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442 \u0441\u043b\u0443\u0436\u0431\u044b \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438 \u0441 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u043c\u0438 \u0437\u043d\u0430\u043d\u0438\u044f\u043c\u0438",
+        "url": "https://nizhny-tagil.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-46109060.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u042f\u043d\u0434\u0435\u043a\u0441",
+        "title": "\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442 \u0441\u043b\u0443\u0436\u0431\u044b \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438 \u0441 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u043c\u0438 \u0437\u043d\u0430\u043d\u0438\u044f\u043c\u0438",
+        "url": "https://novokuznetsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-46109061.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u042f\u043d\u0434\u0435\u043a\u0441",
+        "title": "\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442 \u0441\u043b\u0443\u0436\u0431\u044b \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438 \u0441 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u043c\u0438 \u0437\u043d\u0430\u043d\u0438\u044f\u043c\u0438",
+        "url": "https://novokuybyshevsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-46109062.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u042f\u043d\u0434\u0435\u043a\u0441",
+        "title": "\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442 \u0441\u043b\u0443\u0436\u0431\u044b \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438 \u0441 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u043c\u0438 \u0437\u043d\u0430\u043d\u0438\u044f\u043c\u0438",
+        "url": "https://novorossiysk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-46109063.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u042f\u043d\u0434\u0435\u043a\u0441",
+        "title": "\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442 \u0441\u043b\u0443\u0436\u0431\u044b \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438 \u0441 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u043c\u0438 \u0437\u043d\u0430\u043d\u0438\u044f\u043c\u0438",
+        "url": "https://novomoskovsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-46109064.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u042f\u043d\u0434\u0435\u043a\u0441",
+        "title": "\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442 \u0441\u043b\u0443\u0436\u0431\u044b \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438 \u0441 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u043c\u0438 \u0437\u043d\u0430\u043d\u0438\u044f\u043c\u0438",
+        "url": "https://nsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-46109065.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u042f\u043d\u0434\u0435\u043a\u0441",
+        "title": "\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442 \u0441\u043b\u0443\u0436\u0431\u044b \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438 \u0441 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u043c\u0438 \u0437\u043d\u0430\u043d\u0438\u044f\u043c\u0438",
+        "url": "https://novocheboksarsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-46109066.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u042f\u043d\u0434\u0435\u043a\u0441",
+        "title": "\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442 \u0441\u043b\u0443\u0436\u0431\u044b \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438 \u0441 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u043c\u0438 \u0437\u043d\u0430\u043d\u0438\u044f\u043c\u0438",
+        "url": "https://novocherkassk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-46109067.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u042f\u043d\u0434\u0435\u043a\u0441",
+        "title": "\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442 \u0441\u043b\u0443\u0436\u0431\u044b \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438 \u0441 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u043c\u0438 \u0437\u043d\u0430\u043d\u0438\u044f\u043c\u0438",
+        "url": "https://novoshakhtinsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-46109068.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u042f\u043d\u0434\u0435\u043a\u0441",
+        "title": "\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442 \u0441\u043b\u0443\u0436\u0431\u044b \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438 \u0441 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u043c\u0438 \u0437\u043d\u0430\u043d\u0438\u044f\u043c\u0438",
+        "url": "https://novyi-urengoi.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-46109069.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u042f\u043d\u0434\u0435\u043a\u0441",
+        "title": "\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442 \u0441\u043b\u0443\u0436\u0431\u044b \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438 \u0441 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u043c\u0438 \u0437\u043d\u0430\u043d\u0438\u044f\u043c\u0438",
+        "url": "https://noginsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-46109070.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u0411\u0430\u043d\u043a \u0412\u0422\u0411 (\u041f\u0410\u041e)",
+        "title": "\u0411\u0438\u0437\u043d\u0435\u0441-\u0430\u043d\u0430\u043b\u0438\u0442\u0438\u043a (\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u0412\u0422\u0411 PRO)",
+        "url": "https://www.superjob.ru/vakansii/biznes-analitik-46785292.html",
+        "api": "SuperJob",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u041f\u043e\u043b\u044e\u0441",
+        "title": "\u0410\u043d\u0430\u043b\u0438\u0442\u0438\u043a \u0434\u0430\u043d\u043d\u044b\u0445",
+        "url": "https://krasnoyarsk.superjob.ru/vakansii/analitik-dannyh-46733195.html",
+        "api": "SuperJob",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u0413\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0435 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u043e\u0435 \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0435 \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0435 \u0443\u0447\u0440\u0435\u0436\u0434\u0435\u043d\u0438\u0435 \" \u0412\u043e\u043b\u0433\u043e\u0433\u0440\u0430\u0434\u0441\u043a\u0438\u0439 \u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u043e-\u043f\u0435\u0434\u0430\u0433\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043a\u043e\u043b\u043b\u0435\u0434\u0436\" (\u0413\u0410\u041f\u041e\u0423 \"\u0412\u0421\u041f\u041a\")",
+        "title": "\u041f\u0440\u0435\u043f\u043e\u0434\u0430\u0432\u0430\u0442\u0435\u043b\u044c \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f, \u0432\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0438",
+        "url": "https://volgograd.superjob.ru/vakansii/prepodavatel-programmirovaniya-38561557.html",
+        "api": "SuperJob",
+        "salary_from": 35000,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u0424\u0413\u0411\u041e\u0423 \u0412\u041e \u041c\u0413\u041f\u041f\u0423",
+        "title": "\u0421\u0442\u0430\u0440\u0448\u0438\u0439 \u043d\u0430\u0443\u0447\u043d\u044b\u0439 \u0441\u043e\u0442\u0440\u0443\u0434\u043d\u0438\u043a",
+        "url": "https://www.superjob.ru/vakansii/starshij-nauchnyj-sotrudnik-41239513.html",
+        "api": "SuperJob",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u041c\u0411\u041e\u0423 \u0421\u041e\u0428 \u2116 95",
+        "title": "\u0423\u0447\u0438\u0442\u0435\u043b\u044c \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0442\u0438\u043a\u0438",
+        "url": "https://ekaterinburg.superjob.ru/vakansii/uchitel-informatiki-43496219.html",
+        "api": "SuperJob",
+        "salary_from": 35000,
+        "salary_to": 70000,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u0413\u0411\u041e\u0423 \u0413\u0438\u043c\u043d\u0430\u0437\u0438\u044f \u2116 642 \"\u0417\u0435\u043c\u043b\u044f \u0438 \u0412\u0441\u0435\u043b\u0435\u043d\u043d\u0430\u044f\"",
+        "title": "\u0421\u0438\u0441\u0442\u0435\u043c\u043d\u044b\u0439 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u043e\u0440 \u0432 \u0448\u043a\u043e\u043b\u0443",
+        "url": "https://spb.superjob.ru/vakansii/sistemnyj-administrator-v-shkolu-44512251.html",
+        "api": "SuperJob",
+        "salary_from": 55000,
+        "salary_to": 60000,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u0414\u0435\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442 \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0433\u043e \u0445\u043e\u0437\u044f\u0439\u0441\u0442\u0432\u0430",
+        "title": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442",
+        "url": "https://kolomna.superjob.ru/vakansii/programmist-45594068.html",
+        "api": "SuperJob",
+        "salary_from": 60000,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u041d\u0418\u0426 \u201c\u041a\u0443\u0440\u0447\u0430\u0442\u043e\u0432\u0441\u043a\u0438\u0439 \u0438\u043d\u0441\u0442\u0438\u0442\u0443\u0442\u201d \u041f\u0418\u042f\u0424",
+        "title": "\u041c\u043b\u0430\u0434\u0448\u0438\u0439 \u043d\u0430\u0443\u0447\u043d\u044b\u0439 \u0441\u043e\u0442\u0440\u0443\u0434\u043d\u0438\u043a",
+        "url": "https://gatchina.superjob.ru/vakansii/mladshij-nauchnyj-sotrudnik-45630898.html",
+        "api": "SuperJob",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u041c\u0418\u0426 \u041f\u0424\u0420",
+        "title": "\u0413\u043b\u0430\u0432\u043d\u044b\u0439 \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442 \u041e\u0442\u0434\u0435\u043b\u0430 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u043e\u0439 \u044d\u043a\u0441\u043f\u043b\u0443\u0430\u0442\u0430\u0446\u0438\u0438",
+        "url": "https://izhevsk.superjob.ru/vakansii/glavnyj-specialist-otdela-programmoj-ekspluatacii-43163788.html",
+        "api": "SuperJob",
+        "salary_from": 50000,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u0428\u043a\u043e\u043b\u0430 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f",
+        "title": "\u0423\u0447\u0438\u0442\u0435\u043b\u044c \u043f\u043e \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044e",
+        "url": "https://andreevka.superjob.ru/vakansii/uchitel-po-programmirovaniyu-45698480.html",
+        "api": "SuperJob",
+        "salary_from": null,
+        "salary_to": 60000,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u0410\u043b\u044c\u043f\u0438\u043d\u0442\u0435\u0445",
+        "title": "\u0410\u043d\u0430\u043b\u0438\u0442\u0438\u043a",
+        "url": "https://dolgoprudniy.superjob.ru/vakansii/analitik-45733204.html",
+        "api": "SuperJob",
+        "salary_from": 150000,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "Friendwork",
+        "title": "\u0418\u043d\u0436\u0435\u043d\u0435\u0440-\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442",
+        "url": "https://www.superjob.ru/vakansii/inzhener-programmist-45842848.html",
+        "api": "SuperJob",
+        "salary_from": 100000,
+        "salary_to": 150000,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u0428\u043a\u043e\u043b\u0430 \u2116 303 \u0441 \u0443\u0433\u043b\u0443\u0431\u043b\u0435\u043d\u043d\u044b\u043c \u0438\u0437\u0443\u0447\u0435\u043d\u0438\u0435\u043c \u043d\u0435\u043c\u0435\u0446\u043a\u043e\u0433\u043e \u044f\u0437\u044b\u043a\u0430 \u0438 \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u043e\u0432 \u0445\u0443\u0434\u043e\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e-\u044d\u0441\u0442\u0435\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0446\u0438\u043a\u043b\u0430 \u0438\u043c\u0435\u043d\u0438 \u0424\u0440\u0438\u0434\u0440\u0438\u0445\u0430 \u0428\u0438\u043b\u043b\u0435\u0440\u0430",
+        "title": "\u041f\u0435\u0434\u0430\u0433\u043e\u0433 \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u044f (\u0446\u0438\u0444\u0440\u043e\u0432\u044b\u0435 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438, \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0442\u0438\u043a\u0430) \u0432 \u0426\u0426\u041e IT-\u043a\u0443\u0431",
+        "url": "https://spb.superjob.ru/vakansii/pedagog-dopolnitelnogo-obrazovaniya-32399377.html",
+        "api": "SuperJob",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u0413\u0411\u041f\u041e\u0423 \u041a\u043e\u043b\u043b\u0435\u0434\u0436 \u0441\u0432\u044f\u0437\u0438 \u2116 54 \u0438\u043c\u0435\u043d\u0438 \u041f. \u041c. \u0412\u043e\u0441\u0442\u0440\u0443\u0445\u0438\u043d\u0430 \u041e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0435 \u043f\u043e\u0434\u0440\u0430\u0437\u0434\u0435\u043b\u0435\u043d\u0438\u0435 8",
+        "title": "\u041f\u0440\u0435\u043f\u043e\u0434\u0430\u0432\u0430\u0442\u0435\u043b\u044c IT \u0434\u0438\u0441\u0446\u0438\u043f\u043b\u0438\u043d / \u041c\u0430\u0441\u0442\u0435\u0440 \u041f\u041e (\u041d\u0430\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 IT)",
+        "url": "https://www.superjob.ru/vakansii/prepodavatel-it-disciplin-45980418.html",
+        "api": "SuperJob",
+        "salary_from": 85000,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u042e\u0436\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442",
+        "title": "Data Scientist (computer vision, machine learning)",
+        "url": "https://rnd.superjob.ru/vakansii/data-scientist-44342838.html",
+        "api": "SuperJob",
+        "salary_from": 55000,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u0421\u043f\u043e\u0440\u0442\u043c\u0430\u0441\u0442\u0435\u0440",
+        "title": "Data Scientist",
+        "url": "https://www.superjob.ru/vakansii/data-scientist-46185192.html",
+        "api": "SuperJob",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u0413\u0411\u041e\u0423 \u0421\u041e\u0428 \u2116 134",
+        "title": "\u041f\u0435\u0434\u0430\u0433\u043e\u0433 \u0440\u043e\u0431\u043e\u0442\u043e\u0442\u0435\u0445\u043d\u0438\u043a\u0438",
+        "url": "https://spb.superjob.ru/vakansii/pedagog-robototehniki-46234726.html",
+        "api": "SuperJob",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u0426\u0415\u041d\u0422\u0420 \u0426\u0418\u0424\u0420\u041e\u0412\u041e\u0413\u041e \u0420\u0410\u0417\u0412\u0418\u0422\u0418\u042f",
+        "title": "\u0420\u0443\u043a\u043e\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u0433\u0440\u0443\u043f\u043f\u044b \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0438 \u041f\u041e (\u0422\u0435\u0445\u043b\u0438\u0434)",
+        "url": "https://krasnoyarsk.superjob.ru/vakansii/rukovoditel-gruppy-razrabotki-po-46277766.html",
+        "api": "SuperJob",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u042d\u041a\u041e \u0446\u0435\u043d\u0442\u0440",
+        "title": "\u0421\u0438\u0441\u0442\u0435\u043c\u043d\u044b\u0439 \u0438\u043d\u0436\u0435\u043d\u0435\u0440",
+        "url": "https://www.superjob.ru/vakansii/sistemnyj-inzhener-46296771.html",
+        "api": "SuperJob",
+        "salary_from": 120000,
+        "salary_to": 120000,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u0410\u041d\u041e \u0414\u041f\u041e \u0410\u041a\u0410\u0414\u0415\u041c\u0418\u042f \u0422\u041e\u041f",
+        "title": "\u041f\u0440\u0435\u043f\u043e\u0434\u0430\u0432\u0430\u0442\u0435\u043b\u044c \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u043d\u044b\u0445 \u043a\u0443\u0440\u0441\u043e\u0432",
+        "url": "https://svetlograd.superjob.ru/vakansii/prepodavatel-kompyuternyh-kursov-46545441.html",
+        "api": "SuperJob",
+        "salary_from": 35000,
+        "salary_to": 60000,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u0418\u0411 \u0420\u0435\u0444\u043e\u0440\u043c",
+        "title": "\u0410\u043d\u0430\u043b\u0438\u0442\u0438\u043a \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u043e\u0439 \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u0438 SOC L2 Middle soc analyst L2",
+        "url": "https://www.superjob.ru/vakansii/analitik-informacionnoj-bezopasnosti-soc-l2-middle-soc-analyst-l2-46547022.html",
+        "api": "SuperJob",
+        "salary_from": 100000,
+        "salary_to": 120000,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u0422\u044e\u043c\u0435\u043d\u0441\u043a\u0438\u0439 \u0438\u043d\u0434\u0443\u0441\u0442\u0440\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442",
+        "title": "\u0421\u0442\u0430\u0440\u0448\u0438\u0439 \u043f\u0440\u0435\u043f\u043e\u0434\u0430\u0432\u0430\u0442\u0435\u043b\u044c (\u043a\u0430\u0444\u0435\u0434\u0440\u0430 \u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a\u0438 \u0438 \u043f\u0440\u0438\u043a\u043b\u0430\u0434\u043d\u044b\u0445 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0445 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0439)",
+        "url": "https://tyumen.superjob.ru/vakansii/starshij-prepodavatel-46550402.html",
+        "api": "SuperJob",
+        "salary_from": 25500,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u0421\u041f\u0431 \u0413\u0411\u0423\u0417 \u0414\u0413\u041c\u041a\u0426 \u0412\u041c\u0422 \u0438\u043c. \u041a. \u0410. \u0420\u0430\u0443\u0445\u0444\u0443\u0441\u0430",
+        "title": "\u0422\u0435\u0445\u043d\u0438\u043a \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u043e-\u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u043d\u043e\u0433\u043e \u043e\u0442\u0434\u0435\u043b\u0430",
+        "url": "https://spb.superjob.ru/vakansii/tehnik-informacionno-kompyuternogo-otdela-46587944.html",
+        "api": "SuperJob",
+        "salary_from": 35000,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u0413\u0411\u0423 \u041d\u0421\u041e \u0426\u0435\u043d\u0442\u0440 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0445 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0439 \u041d\u043e\u0432\u043e\u0441\u0438\u0431\u0438\u0440\u0441\u043a\u043e\u0439 \u043e\u0431\u043b\u0430\u0441\u0442\u0438",
+        "title": "\u0418\u043d\u0436\u0435\u043d\u0435\u0440 \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u044f \u0438\u043d\u0444\u0440\u0430\u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u044b",
+        "url": "https://nsk.superjob.ru/vakansii/inzhener-razvitiya-infrastruktury-46600605.html",
+        "api": "SuperJob",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u0421\u0410\u041e \u041c\u0435\u0434\u044d\u043a\u0441\u043f\u0440\u0435\u0441\u0441",
+        "title": "\u0410\u043d\u0430\u043b\u0438\u0442\u0438\u043a \u0432 \u043e\u0442\u0434\u0435\u043b \u0430\u043a\u0442\u0443\u0430\u0440\u043d\u044b\u0445 \u0440\u0430\u0441\u0447\u0435\u0442\u043e\u0432",
+        "url": "https://spb.superjob.ru/vakansii/analitik-v-otdel-aktuarnyh-raschetov-46625508.html",
+        "api": "SuperJob",
+        "salary_from": 100000,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u0418\u0441\u043a\u0430\u043d\u0434\u0430\u0440\u043e\u0432\u0430 \u0413\u0443\u0437\u0435\u043b\u044c \u0420\u0438\u043c\u043e\u0432\u043d\u0430",
+        "title": "\u041f\u0440\u0435\u043f\u043e\u0434\u0430\u0432\u0430\u0442\u0435\u043b\u044c \u043f\u043e \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044e",
+        "url": "https://ufa.superjob.ru/vakansii/prepodavatel-po-programmirovaniyu-46638375.html",
+        "api": "SuperJob",
+        "salary_from": 1000,
+        "salary_to": 1500,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u043e\u0435 \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u043e \u00ab\u0417\u043d\u0430\u043d\u0438\u0435\u00bb",
+        "title": "Python-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a (Django)",
+        "url": "https://www.superjob.ru/vakansii/python-razrabotchik-46640575.html",
+        "api": "SuperJob",
+        "salary_from": 180000,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u0410\u041d\u041e\u041e \"\u0424\u0438\u0437\u0442\u0435\u0445-\u043b\u0438\u0446\u0435\u0439\" \u0438\u043c. \u041f. \u041b. \u041a\u0430\u043f\u0438\u0446\u044b",
+        "title": "\u0423\u0447\u0438\u0442\u0435\u043b\u044c \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0442\u0438\u043a\u0438",
+        "url": "https://dolgoprudniy.superjob.ru/vakansii/uchitel-informatiki-46647557.html",
+        "api": "SuperJob",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u0428\u043a\u043e\u043b\u0430 \u2116 1530 \u0428\u043a\u043e\u043b\u0430 \u041b\u043e\u043c\u043e\u043d\u043e\u0441\u043e\u0432\u0430",
+        "title": "\u0421\u0438\u0441\u0442\u0435\u043c\u043d\u044b\u0439 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u043e\u0440 (IT-\u0441\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442)",
+        "url": "https://www.superjob.ru/vakansii/sistemnyj-administrator-46652493.html",
+        "api": "SuperJob",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u0410\u043a\u0430\u0434\u0435\u043c\u0438\u044f \u0446\u0438\u0444\u0440\u043e\u0432\u044b\u0445 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0439",
+        "title": "\u041f\u0435\u0434\u0430\u0433\u043e\u0433 \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u044f (\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435)",
+        "url": "https://spb.superjob.ru/vakansii/pedagog-dopolnitelnogo-obrazovaniya-45716514.html",
+        "api": "SuperJob",
+        "salary_from": 30000,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u0423\u0434\u0430\u0447\u043d\u044b\u0439 \u0432\u044b\u0431\u043e\u0440",
+        "title": "\u0421\u0442\u0430\u0440\u0448\u0438\u0439 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a (Python/Django) / Senior back-end developer",
+        "url": "https://www.superjob.ru/vakansii/starshij-programmist-razrabotchik-46663422.html",
+        "api": "SuperJob",
+        "salary_from": 200000,
+        "salary_to": 300000,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u041a \u0422\u0435\u043b\u0435\u043a\u043e\u043c",
+        "title": "\u0418\u043d\u0436\u0435\u043d\u0435\u0440/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442 \u043c\u0438\u043a\u0440\u043e\u043a\u043e\u043d\u0442\u0440\u043e\u043b\u043b\u0435\u0440\u043e\u0432 (\u0441\u0442\u0430\u0436\u0435\u0440)",
+        "url": "https://ekaterinburg.superjob.ru/vakansii/inzhener-46664652.html",
+        "api": "SuperJob",
+        "salary_from": 19500,
+        "salary_to": 24500,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u0420\u043e\u0441\u0442\u0435\u043b\u0435\u043a\u043e\u043c",
+        "title": "\u041e\u043f\u0435\u0440\u0430\u0442\u043e\u0440 call-\u0446\u0435\u043d\u0442\u0440\u0430",
+        "url": "https://perm.superjob.ru/vakansii/operator-call-centra-44275930.html",
+        "api": "SuperJob",
+        "salary_from": 35000,
+        "salary_to": 50000,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u0420\u0438\u0442\u043c \u0416\u0438\u0437\u043d\u0438",
+        "title": "\u0412\u0435\u0434\u0443\u0449\u0438\u0439 Web-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a (full stack)",
+        "url": "https://www.superjob.ru/vakansii/veduschij-web-razrabotchik-46707431.html",
+        "api": "SuperJob",
+        "salary_from": 200000,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\"\u041d\u041c\u0418\u0426 \u043e\u043d\u043a\u043e\u043b\u043e\u0433\u0438\u0438 \u0438\u043c. \u041d. \u041d. \u041f\u0435\u0442\u0440\u043e\u0432\u0430\" \u041c\u0438\u043d\u0437\u0434\u0440\u0430\u0432\u0430 \u0420\u043e\u0441\u0441\u0438\u0438",
+        "title": "Senior data scientist",
+        "url": "https://spb.superjob.ru/vakansii/senior-data-scientist-46668124.html",
+        "api": "SuperJob",
+        "salary_from": 300000,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u0422\u0415\u0425\u0422\u041e\u0411",
+        "title": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442 \u0411\u044d\u043a\u0435\u043d\u0434 AI",
+        "url": "https://www.superjob.ru/vakansii/programmist-bekend-ai-46795750.html",
+        "api": "SuperJob",
+        "salary_from": 80000,
+        "salary_to": 160000,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u0413\u041e\u0423 \u0421\u041f\u041e \u041a\u043e\u043b\u043b\u0435\u0434\u0436 \u0441\u0432\u044f\u0437\u0438",
+        "title": "\u041f\u0440\u0435\u043f\u043e\u0434\u0430\u0432\u0430\u0442\u0435\u043b\u044c \u0441\u043f\u0435\u0446\u0434\u0438\u0441\u0446\u0438\u043f\u043b\u0438\u043d (\u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b \u0438 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435)",
+        "url": "https://www.superjob.ru/vakansii/prepodavatel-specdisciplin-45443355.html",
+        "api": "SuperJob",
+        "salary_from": 85000,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u0414\u0438\u0434\u0436\u0438\u0442\u0430\u043b \u043f\u0440\u043e\u0436\u0435\u043a\u0442",
+        "title": "PHP MySQL-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+        "url": "https://nsk.superjob.ru/vakansii/php-mysql-razrabotchik-46821474.html",
+        "api": "SuperJob",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u0413\u0411\u041e\u0423 \u0428\u043a\u043e\u043b\u0430 \u21162086",
+        "title": "\u0423\u0447\u0438\u0442\u0435\u043b\u044c \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0442\u0438\u043a\u0438",
+        "url": "https://www.superjob.ru/vakansii/uchitel-informatiki-34123084.html",
+        "api": "SuperJob",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u0414\u043e\u043c \u0434\u0435\u0442\u0441\u043a\u043e\u0433\u043e \u0442\u0432\u043e\u0440\u0447\u0435\u0441\u0442\u0432\u0430 \"\u0421\u043e\u044e\u0437\"",
+        "title": "\u041f\u0435\u0434\u0430\u0433\u043e\u0433 \u043f\u043e \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u043d\u043e\u043c\u0443 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044e",
+        "url": "https://spb.superjob.ru/vakansii/pedagog-po-kompyuternomu-programmirovaniyu-32302521.html",
+        "api": "SuperJob",
+        "salary_from": 40000,
+        "salary_to": 45000,
+        "currency": "rub"
+    },
+    {
+        "employer": "SuperJob",
+        "title": "DevOps Engineer",
+        "url": "https://www.superjob.ru/vakansii/devops-engineer-34424249.html",
+        "api": "SuperJob",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u0413\u0411\u041e\u0423 \u0428\u043a\u043e\u043b\u0430 575 \u041f\u0440\u0438\u043c\u043e\u0440\u0441\u043a\u043e\u0433\u043e \u0440\u0430\u0439\u043e\u043d\u0430 \u0433. \u0421\u0430\u043d\u043a\u0442 \u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
+        "title": "\u0423\u0447\u0438\u0442\u0435\u043b\u044c \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0442\u0438\u043a\u0438",
+        "url": "https://spb.superjob.ru/vakansii/uchitel-informatiki-37923007.html",
+        "api": "SuperJob",
+        "salary_from": 65000,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u0413\u0411\u041e\u0423 \"\u041b\u0438\u0446\u0435\u0439 \u2116126\" \u041a\u0430\u043b\u0438\u043d\u0438\u043d\u0441\u043a\u043e\u0433\u043e \u0440\u0430\u0439\u043e\u043d\u0430 \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433\u0430",
+        "title": "\u041c\u0435\u0442\u043e\u0434\u0438\u0441\u0442 \u043f\u043e \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044e \u043d\u0430 Python (\u0432 \u0446\u0435\u043d\u0442\u0440 \u0446\u0438\u0444\u0440\u043e\u0432\u043e\u0433\u043e \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u044f)",
+        "url": "https://spb.superjob.ru/vakansii/metodist-po-programmirovaniyu-na-python-38140998.html",
+        "api": "SuperJob",
+        "salary_from": 30000,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u0413\u0411\u041e\u0423 \u0428\u043a\u043e\u043b\u0430",
+        "title": "\u0423\u0447\u0438\u0442\u0435\u043b\u044c \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0442\u0438\u043a\u0438 \u0438 \u0440\u043e\u0431\u043e\u0442\u043e\u0442\u0435\u0445\u043d\u0438\u043a\u0438",
+        "url": "https://www.superjob.ru/vakansii/uchitel-informatiki-i-robototehniki-39720503.html",
+        "api": "SuperJob",
+        "salary_from": 80000,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u0415\u0432\u0440\u043e\u0410\u0432\u0442\u043e",
+        "title": "Web-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a (backend)",
+        "url": "https://spb.superjob.ru/vakansii/web-razrabotchik-41964533.html",
+        "api": "SuperJob",
+        "salary_from": 100000,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u0424\u0413\u0411\u0423 \"\u041d\u0430\u0443\u0447\u043d\u043e-\u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u0441\u043a\u0438\u0439 \u0446\u0435\u043d\u0442\u0440 \u043a\u043e\u0441\u043c\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u0433\u0438\u0434\u0440\u043e\u043c\u0435\u0442\u0435\u043e\u0440\u043e\u043b\u043e\u0433\u0438\u0438 \"\u041f\u043b\u0430\u043d\u0435\u0442\u0430\"",
+        "title": "\u0421\u0438\u0441\u0442\u0435\u043c\u043d\u044b\u0439 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u043e\u0440, IT-\u0441\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442",
+        "url": "https://www.superjob.ru/vakansii/sistemnyj-administrator-43137935.html",
+        "api": "SuperJob",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u0420\u0430\u0434\u0438\u043e\u0444\u0438\u0437\u0438\u043a\u0430",
+        "title": "\u0418\u043d\u0436\u0435\u043d\u0435\u0440-\u0440\u0430\u0434\u0438\u043e\u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u0449\u0438\u043a 1 \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u0438",
+        "url": "https://www.superjob.ru/vakansii/inzhener-radioelektronschik-1-kategorii-43148990.html",
+        "api": "SuperJob",
+        "salary_from": 100000,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u0421\u041f\u0431 \u0413\u0411 \u041f\u041e\u0423 \"\u0420\u0430\u0434\u0438\u043e\u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043a\u043e\u043b\u043b\u0435\u0434\u0436\"",
+        "title": "\u041f\u0440\u0435\u043f\u043e\u0434\u0430\u0432\u0430\u0442\u0435\u043b\u044c \u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0442\u0438\u043a\u0430 \u0438 \u0432\u044b\u0447\u0438\u0441\u043b\u0438\u0442\u0435\u043b\u044c\u043d\u0430\u044f \u0442\u0435\u0445\u043d\u0438\u043a\u0430",
+        "url": "https://spb.superjob.ru/vakansii/prepodavatel-informatika-i-vychislitelnaya-tehnika-43877938.html",
+        "api": "SuperJob",
+        "salary_from": 60000,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u0424\u0430\u043a\u0442\u043e\u0440-\u0422\u0421",
+        "title": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442 Linux",
+        "url": "https://www.superjob.ru/vakansii/programmist-linux-45695529.html",
+        "api": "SuperJob",
+        "salary_from": 100000,
+        "salary_to": 500000,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u0410\u0420\u041f-\u0414\u0418\u0417\u0410\u0419\u041d",
+        "title": "\u0418\u043d\u0436\u0435\u043d\u0435\u0440-\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442",
+        "url": "https://www.superjob.ru/vakansii/inzhener-programmist-45695694.html",
+        "api": "SuperJob",
+        "salary_from": 125000,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u041f\u0415\u0422\u0415\u0420\u0411\u0423\u0420\u0413\u0421\u041a\u0418\u0419 \u0413\u041e\u0421\u0423\u0414\u0410\u0420\u0421\u0422\u0412\u0415\u041d\u041d\u042b\u0419 \u0423\u041d\u0418\u0412\u0415\u0420\u0421\u0418\u0422\u0415\u0422 \u041f\u0423\u0422\u0415\u0419 \u0421\u041e\u041e\u0411\u0429\u0415\u041d\u0418\u042f \u0418\u041c\u041f\u0415\u0420\u0410\u0422\u041e\u0420\u0410 \u0410\u041b\u0415\u041a\u0421\u0410\u041d\u0414\u0420\u0410 I",
+        "title": "\u0414\u043e\u0446\u0435\u043d\u0442 \u043a\u0430\u0444\u0435\u0434\u0440\u044b \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u043e\u0439 \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u0438",
+        "url": "https://spb.superjob.ru/vakansii/docent-kafedry-informacionnoj-bezopasnosti-40917263.html",
+        "api": "SuperJob",
+        "salary_from": 70000,
+        "salary_to": 120000,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433\u0441\u043a\u0438\u0439 \u0433\u043e\u0440\u043d\u044b\u0439 \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442",
+        "title": "\u0412\u0435\u0434\u0443\u0449\u0438\u0439 \u0438\u043d\u0436\u0435\u043d\u0435\u0440",
+        "url": "https://spb.superjob.ru/vakansii/veduschij-inzhener-46009011.html",
+        "api": "SuperJob",
+        "salary_from": 60000,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u0428\u043a\u043e\u043b\u0430 \u21162116",
+        "title": "\u0423\u0447\u0438\u0442\u0435\u043b\u044c \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0442\u0438\u043a\u0438",
+        "url": "https://www.superjob.ru/vakansii/uchitel-informatiki-46296647.html",
+        "api": "SuperJob",
+        "salary_from": 100000,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u0421\u041c-\u041a\u043b\u0438\u043d\u0438\u043a\u0430",
+        "title": "\u0412\u0435\u0434\u0443\u0449\u0438\u0439 \u0441\u0438\u0441\u0442\u0435\u043c\u043d\u044b\u0439 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u043e\u0440",
+        "url": "https://www.superjob.ru/vakansii/veduschij-sistemnyj-administrator-46276186.html",
+        "api": "SuperJob",
+        "salary_from": 160000,
+        "salary_to": 180000,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u0413\u0411\u041e\u0423 \u0448\u043a\u043e\u043b\u0430 \u2116489",
+        "title": "\u041f\u0435\u0434\u0430\u0433\u043e\u0433 \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u044f",
+        "url": "https://spb.superjob.ru/vakansii/pedagog-dopolnitelnogo-obrazovaniya-46399099.html",
+        "api": "SuperJob",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u0428\u043a\u043e\u043b\u0430 \u2116217",
+        "title": "\u0423\u0447\u0438\u0442\u0435\u043b\u044c \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0442\u0438\u043a\u0438",
+        "url": "https://spb.superjob.ru/vakansii/uchitel-informatiki-46584584.html",
+        "api": "SuperJob",
+        "salary_from": 50000,
+        "salary_to": 70000,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u041d\u041f\u041e \u041c\u041e\u041b\u041d\u0418\u042f",
+        "title": "\u0418\u043d\u0436\u0435\u043d\u0435\u0440-\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442",
+        "url": "https://www.superjob.ru/vakansii/inzhener-programmist-46558471.html",
+        "api": "SuperJob",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u0410\u041d\u0422\u0418\u041a\u041e\u0420 \u041f\u041e\u041b\u0418\u041c\u0415\u0420",
+        "title": "\u0421\u0438\u0441\u0442\u0435\u043c\u043d\u044b\u0439 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u043e\u0440",
+        "url": "https://spb.superjob.ru/vakansii/sistemnyj-administrator-46664658.html",
+        "api": "SuperJob",
+        "salary_from": 70000,
+        "salary_to": 120000,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u0413\u0411\u041e\u0423 \u0428\u043a\u043e\u043b\u0430 \u211645 \u0441 \u0443\u0433\u043b\u0443\u0431\u043b\u0435\u043d\u043d\u044b\u043c \u0438\u0437\u0443\u0447\u0435\u043d\u0438\u0435\u043c \u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a\u0438 \u041f\u0440\u0438\u043c\u043e\u0440\u0441\u043a\u043e\u0433\u043e \u0440\u0430\u0439\u043e\u043d\u0430 \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433\u0430",
+        "title": "\u0423\u0447\u0438\u0442\u0435\u043b\u044c \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0442\u0438\u043a\u0438",
+        "url": "https://spb.superjob.ru/vakansii/uchitel-informatiki-46790086.html",
+        "api": "SuperJob",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": "rub"
+    },
+    {
+        "employer": "\u041e\u041e\u041e \u00ab\u0421\u041c\u0410\u0420\u0422\u0421\u041e\u0424\u0422\u00bb",
+        "title": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442 Web, php, Python",
+        "url": "https://samara.superjob.ru/vakansii/programmist-web-46816401.html",
+        "api": "SuperJob",
+        "salary_from": 50000,
+        "salary_to": 70000,
+        "currency": "rub"
+    }
+]

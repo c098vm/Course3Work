@@ -14,3 +14,4 @@ def filter_by_salary_from(vacancies):
         "Введите минимальную зарплату\n"
         ">>> "))
     return sorted(vacancies, key=lambda x: (int(x.salary_from) >= minimal_salary if x.salary_from else 0))
+

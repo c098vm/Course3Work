@@ -84,3 +84,4 @@ class Vacancy:
 
     def __ge__(self, other):
         return self.to_int(self.salary_from) >= self.to_int(other.salary_from)
+

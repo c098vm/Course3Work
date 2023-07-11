@@ -62,3 +62,4 @@ class HeadHunterAPI(API):
                 formatted_vacancy["currency"] = None
             formatted_vacancies.append(formatted_vacancy)
         return formatted_vacancies
+

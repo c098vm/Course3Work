@@ -39,7 +39,6 @@ def main():
         print()
 
         vacancies_data = jsonfile.json_read()
-
         if command == "0":
             break
         elif command == "1":

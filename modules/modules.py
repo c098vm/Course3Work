@@ -38,26 +38,6 @@ class JsonFile:
             vacancies = json.load(file)
         return [Vacancy(x) for x in vacancies]
 
-    def sort_by_salary_from(self):
-        """ Функция сортировки вакансий по минимальной зарплате """
-        desc = True if input(
-            "> - по убыванию\n"
-            "< - по возрастанию\n"
-            ">>> "
-        ) == ">" else False
-        vacancies = self.json_read()
-        return sorted(vacancies,
-                      key=lambda x: (x.salary_from if x.salary_from else 0, x.salary_to if x.salary_to else 0),
-                      reverse=desc)
-
-    def filter_by_salary_from(self):
-        """ Функция фильтрации вакансий по минимальной зарплате """
-        minimal_salary = int(input(
-            "Введите минимальную зарплату\n"
-            ">>> "))
-        vacancies = self.json_read()
-        return sorted(vacancies, key=lambda x: (int(x.salary_from) >= minimal_salary if x.salary_from else 0))
-
 
 class Vacancy:
     """ Класс вакансии"""
@@ -86,14 +66,21 @@ class Vacancy:
 Ссылка: {self.url}
 """
 
+    @staticmethod
+    def to_int(value):
+        try:
+            return int(value)
+        except TypeError:
+            return 0
+
     def __lt__(self, other):
-        return int(self.salary_from) < int(other)
+        return self.to_int(self.salary_from) < self.to_int(other.salary_from)
 
     def __le__(self, other):
-        return int(self.salary_from) <= int(other)
+        return self.to_int(self.salary_from) <= self.to_int(other.salary_from)
 
     def __gt__(self, other):
-        return int(self.salary_from) > int(other)
+        return self.to_int(self.salary_from) > self.to_int(other.salary_from)
 
     def __ge__(self, other):
-        return int(self.salary_from) >= int(other)
+        return self.to_int(self.salary_from) >= self.to_int(other.salary_from)

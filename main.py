@@ -1,23 +1,32 @@
 from HHParcer import HHParcer
 from SJParcer import SJParcer
-import modules
+from modules import modules
+from modules.utils import sort_by_salary_from, filter_by_salary_from
 
 
 def main():
+    vacancies = []
     keyword = input("Введите ключевое слово для поиска вакансий\n"
                     ">>> ")
-    # keyword = "C++"
     print()
+
+    pages_count = int(input('Сколько страниц вакансий загрузить с каждой платформы (не более 10)?\n'
+                        '>>> '))
+    print()
+
+    if pages_count > 10:
+        pages_count = 10
+
     vacancies_json = []
 
     hh = HHParcer.HeadHunterAPI(keyword)
     sj = SJParcer.SuperJobAPI(keyword)
 
     for api in [hh, sj]:
-        api.get_vacancies()
+        api.get_vacancies(pages_count)
         vacancies_json.extend(api.get_formatted_vacancies())
 
-    jsonfile = modules.modules.JsonFile(keyword, vacancies_json)
+    jsonfile = modules.JsonFile(keyword, vacancies_json)
 
     while True:
         print()
@@ -28,18 +37,21 @@ def main():
               "0 - выход")
         command = input(">>> ")
         print()
+
+        vacancies_data = jsonfile.json_read()
+
         if command == "0":
-            print("Работа программы завершена.")
             break
         elif command == "1":
-            vacancies = jsonfile.json_read()
+            vacancies = vacancies_data
         elif command == "2":
-            vacancies = jsonfile.sort_by_salary_from()
+            vacancies = sort_by_salary_from(vacancies_data)
         elif command == "3":
-            vacancies = jsonfile.filter_by_salary_from()
+            vacancies = filter_by_salary_from(vacancies_data)
 
         for vacancy in vacancies:
             print(vacancy)
+
 
 if __name__ == "__main__":
     main()
